@@ -1,0 +1,6 @@
+MainPackage=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0_ARM.appx
+SymbolPackage=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0\NTUTimetable v1.0_1.0.5.0_ARM.appxsym
+ResourcePack=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0_scale-100.appx
+ResourcePack=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0_scale-125.appx
+ResourcePack=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0_scale-150.appx
+ResourcePack=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\ARM\Release\Upload\NTUTimetable v1.0_1.0.5.0_scale-400.appx

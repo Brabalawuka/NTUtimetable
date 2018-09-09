@@ -1,0 +1,109 @@
+[
+  {
+    "CourseCode": "CE2001",
+    "ClassList": [
+      {
+        "CourseType": "LEC/STUDIO",
+        "Venue": "LT2A",
+        "Color": 3,
+        "WeekSpan": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "Row_Time": 5,
+        "Col_day": 5,
+        "RowSpan_Duration": 2
+      },
+      {
+        "CourseType": "LEC/STUDIO",
+        "Venue": "LT2A",
+        "Color": 3,
+        "WeekSpan": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "Row_Time": 9,
+        "Col_day": 1,
+        "RowSpan_Duration": 2
+      },
+      {
+        "CourseType": "TUT",
+        "Venue": "TRX44",
+        "Color": 3,
+        "WeekSpan": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "Row_Time": 5,
+        "Col_day": 3,
+        "RowSpan_Duration": 2
+      },
+      {
+        "CourseType": "LAB",
+        "Venue": "SWLAB3",
+        "Color": 3,
+        "WeekSpan": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "Row_Time": 5,
+        "Col_day": 2,
+        "RowSpan_Duration": 2
+      },
+      {
+        "CourseType": "LAB",
+        "Venue": "SWLAB3",
+        "Color": 3,
+        "WeekSpan": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "Row_Time": 7,
+        "Col_day": 2,
+        "RowSpan_Duration": 2
+      }
+    ]
+  }
+]

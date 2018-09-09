@@ -1,0 +1,2 @@
+MainPackage=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x64\Release\Upload\NTUTimetable v1.0_1.0.5.0_x64.appx
+SymbolPackage=C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x64\Release\Upload\NTUTimetable v1.0_1.0.5.0\NTUTimetable v1.0_1.0.5.0_x64.appxsym

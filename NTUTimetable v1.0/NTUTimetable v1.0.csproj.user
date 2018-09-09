@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SplashScreenSource>C:\Users\lvziz\Desktop\未标题-1.png</SplashScreenSource>
+    <AppIconSource>C:\Users\lvziz\Desktop\timetable.png</AppIconSource>
+    <SmallTileSource>C:\Users\lvziz\Desktop\timetable.png</SmallTileSource>
+    <MediumTileSource>C:\Users\lvziz\Desktop\timetable.png</MediumTileSource>
+    <WideTileSource>C:\Users\lvziz\Desktop\timetable.png</WideTileSource>
+    <LargeTileSource>C:\Users\lvziz\Desktop\timetable.png</LargeTileSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <PackageLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</BadgeLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

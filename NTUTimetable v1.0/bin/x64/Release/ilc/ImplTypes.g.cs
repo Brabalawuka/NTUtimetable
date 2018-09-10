@@ -62507,6 +62507,39 @@ namespace Windows.UI.Xaml.Controls
 		// StubClass for 'Windows.UI.Xaml.Controls.INavigationView2'
 		public static partial class Stubs
 		{
+			// Signature, Windows.UI.Xaml.Controls.INavigationView2.get_IsBackButtonVisible, [fwd] [return] [EETypeRva:0x000406BC] void__int, [fwd] [out] [retval] [nativebyref] [EETypeRva:0x000414B4] Windows_UI_Xaml_Controls_NavigationViewBackButtonVisible__Windows_UI_Xaml_Controls__NavigationViewBackButtonVisible, 
+			public static global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible get_IsBackButtonVisible(global::System.__ComObject __this)
+			{
+				// Setup
+				global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible unsafe_value__retval;
+				global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible value__retval;
+				int unsafe___hr;
+				// Marshalling
+				// Call to native method
+				unsafe___hr = global::__Interop.ComCallHelpers.Call(
+									__this, 
+									typeof(global::Windows.UI.Xaml.Controls.INavigationView2).TypeHandle, 
+									6, 
+									&(unsafe_value__retval)
+								);
+				global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+				value__retval = unsafe_value__retval;
+				// Return
+				return value__retval;
+			}
+
+			public static void put_IsBackButtonVisible(
+						global::System.__ComObject __this, 
+						global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible value)
+			{
+				global::__Interop.ForwardComStubs.Stub_24<global::Windows.UI.Xaml.Controls.INavigationView2>(
+									__this, 
+									((int)value), 
+									7
+								);
+				global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+			}
+
 			// Signature, Windows.UI.Xaml.Controls.INavigationView2.add_BackRequested, [fwd] [return] [EETypeRva:0x000406BC] void__int, [fwd] [in] [EETypeRva:0x0003F504] Windows_Foundation_TypedEventHandler_2_Windows_UI_Xaml_Controls_NavigationView__Windows_UI_Xaml_Controls_NavigationViewBackRequestedEventArgs___Windows_Foundation__TypedEventHandler_A__wux__Controls_NavigationView_j__wux__Controls_NavigationViewBackRequestedEventArgs_V_ *, [fwd] [out] [retval] [nativebyref] [EETypeRva:0x0004157C] System_Runtime_InteropServices_WindowsRuntime_EventRegistrationToken__Windows_Foundation__EventRegistrationToken, 
 			public static global::System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken add_BackRequested(
 						global::System.__ComObject __this, 

@@ -13999,6 +13999,24 @@ namespace Windows.UI.Xaml.Controls
 			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
 		}
 
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertyGet, "IsBackButtonVisible")]
+		public virtual global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible get_IsBackButtonVisible()
+		{
+			global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible __retVal = global::Windows.UI.Xaml.Controls.INavigationView2__Impl.Stubs.get_IsBackButtonVisible(this);
+			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+			return __retVal;
+		}
+
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertySet, "IsBackButtonVisible")]
+		public virtual void put_IsBackButtonVisible(global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible value)
+		{
+			global::Windows.UI.Xaml.Controls.INavigationView2__Impl.Stubs.put_IsBackButtonVisible(
+								this, 
+								value
+							);
+			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+		}
+
 		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.EventAdd, "BackRequested")]
 		public virtual global::System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken add_BackRequested(global::Windows.Foundation.TypedEventHandler<global::Windows.UI.Xaml.Controls.NavigationView, global::Windows.UI.Xaml.Controls.NavigationViewBackRequestedEventArgs> value)
 		{
@@ -15734,6 +15752,12 @@ namespace Windows.UI.Xaml.Controls
 	[global::Internal.Reflection.ExplicitScope("Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime")]
 	public unsafe interface INavigationView2
 	{
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertyGet, "IsBackButtonVisible")]
+		global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible get_IsBackButtonVisible();
+
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertySet, "IsBackButtonVisible")]
+		void put_IsBackButtonVisible(global::Windows.UI.Xaml.Controls.NavigationViewBackButtonVisible value);
+
 		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.EventAdd, "BackRequested")]
 		global::System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken add_BackRequested(global::Windows.Foundation.TypedEventHandler<global::Windows.UI.Xaml.Controls.NavigationView, global::Windows.UI.Xaml.Controls.NavigationViewBackRequestedEventArgs> value);
 
@@ -15999,6 +16023,16 @@ namespace Windows.UI.Xaml.Controls
 	{
 		Vertical = 0,
 		Horizontal = 1,
+	}
+
+	[global::System.Runtime.InteropServices.McgWindowsRuntimeVersion(0)]
+	[global::Internal.Reflection.MetadataTransformed(global::Internal.Reflection.MetadataTransformation.OriginallyForeignObject)]
+	[global::Internal.Reflection.ExplicitScope("Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime")]
+	public enum NavigationViewBackButtonVisible
+	{
+		Collapsed = 0,
+		Visible = 1,
+		Auto = 2,
 	}
 
 	[global::System.Runtime.InteropServices.McgWindowsRuntimeVersion(0)]

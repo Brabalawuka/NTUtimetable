@@ -14,7 +14,7 @@
         <NavigationView IsSettingsVisible="True" x:Name="Menu"
                         AlwaysShowHeader="False" 
                         SelectionChanged="Menu_SelectionChanged"
-                        
+                        IsBackButtonVisible="Collapsed"
                         x:FieldModifier="Public">
             
             

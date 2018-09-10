@@ -7,7 +7,7 @@
 
   有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
  -->
-  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.5.0" ProcessorArchitecture="x86" />
+  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.6.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="47b220ef-c432-4b00-b1b5-3e06de724d79" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>NTUTimetable</DisplayName>
@@ -15,7 +15,7 @@
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.17134.0" />
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17134.0" MaxVersionTested="10.0.17134.0" />
     <PackageDependency Name="Microsoft.NET.Native.Framework.2.1" MinVersion="2.1.26424.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
     <PackageDependency Name="Microsoft.NET.Native.Runtime.2.1" MinVersion="2.1.26424.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
   </Dependencies>
@@ -36,9 +36,6 @@
       </uap:VisualElements>
     </Application>
   </Applications>
-  <Capabilities>
-    <Capability Name="internetClient" />
-  </Capabilities>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
     <build:Item Name="VisualStudio" Version="15.0" />

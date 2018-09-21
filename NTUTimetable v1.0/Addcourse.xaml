@@ -23,7 +23,7 @@
                 
                     <Image Source="ms-appx:///Assets/Step1.png" Height="350" Width="350" Margin="20"/>
                     <TextBlock FontSize="15" TextWrapping="Wrap" Width="300" HorizontalTextAlignment="Center">
-                        <Span>Go to <Hyperlink NavigateUri="https://sso.wis.ntu.edu.sg/webexe88/ntlm/sso_express.asp?app=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main">STARS Planner</Hyperlink> and click for registered course.</Span>
+                        <Span>Use Google Chrome and go to <Hyperlink NavigateUri="https://sso.wis.ntu.edu.sg/webexe88/ntlm/sso_express.asp?app=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main">STARS Planner</Hyperlink> and click for registered course.</Span>
                     </TextBlock>
                 
                 </StackPanel>

@@ -1,11 +1,15 @@
 WinMetadata\Windows.winmd
+Assets\BadgeLogo.scale-100.png
+Assets\BadgeLogo.scale-125.png
+Assets\BadgeLogo.scale-150.png
+Assets\BadgeLogo.scale-200.png
+Assets\BadgeLogo.scale-400.png
 Assets\LargeTile.scale-100.png
 Assets\LargeTile.scale-125.png
 Assets\LargeTile.scale-150.png
 Assets\LargeTile.scale-200.png
 Assets\LargeTile.scale-400.png
 Assets\LockScreenLogo.scale-200.png
-Assets\mycourse.json
 Assets\SmallTile.scale-100.png
 Assets\SmallTile.scale-125.png
 Assets\SmallTile.scale-150.png
@@ -38,7 +42,11 @@ Assets\Square44x44Logo.targetsize-32.png
 Assets\Square44x44Logo.targetsize-48.png
 Assets\Step1.png
 Assets\Step2.png
-Assets\StoreLogo.png
+Assets\StoreLogo.scale-100.png
+Assets\StoreLogo.scale-125.png
+Assets\StoreLogo.scale-150.png
+Assets\StoreLogo.scale-200.png
+Assets\StoreLogo.scale-400.png
 Assets\Wide310x150Logo.scale-100.png
 Assets\Wide310x150Logo.scale-125.png
 Assets\Wide310x150Logo.scale-150.png
@@ -46,8 +54,10 @@ Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
 Addcourse.xbf
 App.xbf
+BlankPage1.xbf
 CalendarView.xbf
 ListView.xbf
 MainPage.xbf
 NTUTimetable v1.0.xr.xml
+Setting.xbf
 Properties\Default.rd.xml

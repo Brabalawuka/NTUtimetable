@@ -7,7 +7,7 @@
 
   有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
  -->
-  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.6.0" ProcessorArchitecture="x86" />
+  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.8.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="47b220ef-c432-4b00-b1b5-3e06de724d79" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>NTUTimetable</DisplayName>
@@ -41,7 +41,7 @@
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
     <build:Item Name="VisualStudio" Version="15.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2017" />
-    <build:Item Name="OperatingSystem" Version="10.0.17753.1000 (WinBuild.160101.0800)" />
+    <build:Item Name="OperatingSystem" Version="10.0.17760.1000 (WinBuild.160101.0800)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.27703.2026" />
     <build:Item Name="ProjectGUID" Value="{3566E85A-0A1A-49F9-BA68-766CDC437A9A}" />
     <build:Item Name="ilc.exe" Version="2.1.26424.01 built by: PROJECTNREL" />

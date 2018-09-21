@@ -189,21 +189,25 @@ namespace NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[6];
+            _typeNameTable = new string[8];
             _typeNameTable[0] = "NTUTimetable_v1._0.Addcourse";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "NTUTimetable_v1._0.CalendarView";
-            _typeNameTable[4] = "NTUTimetable_v1._0.ListView";
-            _typeNameTable[5] = "NTUTimetable_v1._0.MainPage";
+            _typeNameTable[3] = "NTUTimetable_v1._0.BlankPage1";
+            _typeNameTable[4] = "NTUTimetable_v1._0.CalendarView";
+            _typeNameTable[5] = "NTUTimetable_v1._0.ListView";
+            _typeNameTable[6] = "NTUTimetable_v1._0.MainPage";
+            _typeNameTable[7] = "NTUTimetable_v1._0.Setting";
 
-            _typeTable = new global::System.Type[6];
+            _typeTable = new global::System.Type[8];
             _typeTable[0] = typeof(global::NTUTimetable_v1._0.Addcourse);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::NTUTimetable_v1._0.CalendarView);
-            _typeTable[4] = typeof(global::NTUTimetable_v1._0.ListView);
-            _typeTable[5] = typeof(global::NTUTimetable_v1._0.MainPage);
+            _typeTable[3] = typeof(global::NTUTimetable_v1._0.BlankPage1);
+            _typeTable[4] = typeof(global::NTUTimetable_v1._0.CalendarView);
+            _typeTable[5] = typeof(global::NTUTimetable_v1._0.ListView);
+            _typeTable[6] = typeof(global::NTUTimetable_v1._0.MainPage);
+            _typeTable[7] = typeof(global::NTUTimetable_v1._0.Setting);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -239,9 +243,11 @@ namespace NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo
         }
 
         private object Activate_0_Addcourse() { return new global::NTUTimetable_v1._0.Addcourse(); }
-        private object Activate_3_CalendarView() { return new global::NTUTimetable_v1._0.CalendarView(); }
-        private object Activate_4_ListView() { return new global::NTUTimetable_v1._0.ListView(); }
-        private object Activate_5_MainPage() { return new global::NTUTimetable_v1._0.MainPage(); }
+        private object Activate_3_BlankPage1() { return new global::NTUTimetable_v1._0.BlankPage1(); }
+        private object Activate_4_CalendarView() { return new global::NTUTimetable_v1._0.CalendarView(); }
+        private object Activate_5_ListView() { return new global::NTUTimetable_v1._0.ListView(); }
+        private object Activate_6_MainPage() { return new global::NTUTimetable_v1._0.MainPage(); }
+        private object Activate_7_Setting() { return new global::NTUTimetable_v1._0.Setting(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -268,23 +274,37 @@ namespace NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo
                 xamlType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  NTUTimetable_v1._0.CalendarView
+            case 3:   //  NTUTimetable_v1._0.BlankPage1
                 userType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_CalendarView;
+                userType.Activator = Activate_3_BlankPage1;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  NTUTimetable_v1._0.ListView
+            case 4:   //  NTUTimetable_v1._0.CalendarView
                 userType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_ListView;
+                userType.Activator = Activate_4_CalendarView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 5:   //  NTUTimetable_v1._0.MainPage
+            case 5:   //  NTUTimetable_v1._0.ListView
                 userType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_5_MainPage;
+                userType.Activator = Activate_5_ListView;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 6:   //  NTUTimetable_v1._0.MainPage
+                userType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_6_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 7:   //  NTUTimetable_v1._0.Setting
+                userType = new global::NTUTimetable_v1._0.NTUTimetable_v1_0_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_7_Setting;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

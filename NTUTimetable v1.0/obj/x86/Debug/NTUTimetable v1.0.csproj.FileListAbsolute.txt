@@ -304,3 +304,13 @@ C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Ad
 C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Addcourse.xaml
 C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Addcourse.xbf
 C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Addcourse.xbf
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\BlankPage1.xbf
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\BlankPage1.g.i.cs
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\BlankPage1.g.cs
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\BlankPage1.xaml
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\BlankPage1.xbf
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Setting.g.i.cs
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Setting.g.cs
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Setting.xaml
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\Setting.xbf
+C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Setting.xbf

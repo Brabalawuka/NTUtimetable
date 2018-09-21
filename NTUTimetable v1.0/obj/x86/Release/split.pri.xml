@@ -17,6 +17,11 @@
 					<Base64Value>[Embedded Binary Data]</Base64Value>
 				</Candidate>
 			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://45649LZZBrabalawuka.NTUTimetable/Files/BlankPage1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
 			<NamedResource name="CalendarView.xbf" uri="ms-resource://45649LZZBrabalawuka.NTUTimetable/Files/CalendarView.xbf">
 				<Candidate type="EmbeddedData">
 					<Base64Value>[Embedded Binary Data]</Base64Value>
@@ -35,6 +40,11 @@
 			<NamedResource name="NTUTimetable v1.0.xr.xml" uri="ms-resource://45649LZZBrabalawuka.NTUTimetable/Files/NTUTimetable v1.0.xr.xml">
 				<Candidate type="Path">
 					<Value>NTUTimetable v1.0.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Setting.xbf" uri="ms-resource://45649LZZBrabalawuka.NTUTimetable/Files/Setting.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
 				</Candidate>
 			</NamedResource>
 			<ResourceMapSubtree name="Assets">

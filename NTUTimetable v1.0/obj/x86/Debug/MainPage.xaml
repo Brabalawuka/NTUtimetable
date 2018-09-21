@@ -1,0 +1,80 @@
+﻿<Page
+    x:Class="NTUTimetable_v1._0.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NTUTimetable_v1._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+  
+
+        <NavigationView x:ConnectionId='2' IsSettingsVisible="True" x:Name="Menu"
+                        AlwaysShowHeader="False" 
+                                                                
+                        IsBackButtonVisible="Collapsed"
+                        x:FieldModifier="Public">
+            
+            
+            
+            
+
+
+            <NavigationView.MenuItems>
+                <NavigationViewItemHeader x:ConnectionId='3' Name="CurrentWeek"/>
+                <NavigationViewItemHeader Content="New Course" />
+
+                <NavigationViewItem x:ConnectionId='4' Content="Add"
+                                    Tag="AddCourse"
+                                    Name="AddcourseButton">
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE710;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+
+
+                <NavigationViewItemHeader Content="Course Registered" />
+
+
+                <NavigationViewItem Content="CalendarView"
+                                    IsSelected="True"
+                                    Tag="CalendarView">
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets"
+                          Glyph="&#xE787;" />
+                    </NavigationViewItem.Icon>
+
+                </NavigationViewItem>
+                <NavigationViewItem Content="ListView"
+                                    Tag="ListView">
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets"
+                          Glyph="&#xE7C4;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+
+            </NavigationView.MenuItems>
+
+            <NavigationView.PaneFooter>
+
+                <NavigationViewItem x:ConnectionId='5' Content="FeedBack"
+                                    Tag="Feedback"
+                                    Name="FeedbackButton"                               >
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xED15;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+            </NavigationView.PaneFooter>
+            <Frame x:ConnectionId='6' Name="MainPageFrame" />
+
+        </NavigationView>
+        
+        
+
+    </Grid>
+    
+    
+</Page>
+

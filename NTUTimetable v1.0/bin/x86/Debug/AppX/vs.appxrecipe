@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>2af78d76-e9f8-4031-976d-12f69dd9f253</PackageIdentityName>
-    <PackageIdentityPublisher>CN=lvziz</PackageIdentityPublisher>
+    <PackageIdentityName>47b220ef-c432-4b00-b1b5-3e06de724d79</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>A6EEC28F17F042F4FECEC1AA3714572919AC25DB9CE45E9C45142D692282A6B9</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>2af78d76-e9f8-4031-976d-12f69dd9f253_1.0.0.0_x86__pn806h0fcwemm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>2af78d76-e9f8-4031-976d-12f69dd9f253_pn806h0fcwemm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>2af78d76-e9f8-4031-976d-12f69dd9f253</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=lvziz</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>B81371BE1F1789733049854B2464E9C15F64BB23A1427294082880E546332CB5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45649LZZBrabalawuka.NTUTimetable_1.0.6.0_x86__5gpmth1drynpy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45649LZZBrabalawuka.NTUTimetable_5gpmth1drynpy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45649LZZBrabalawuka.NTUTimetable</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.6.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-06T09:25:49.967</Modified>
+      <Modified>2018-09-12T13:45:24.870</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\NTUTimetable v1.0.exe">
       <PackagePath>entrypoint\NTUTimetable v1.0.exe</PackagePath>
-      <Modified>2018-09-06T09:25:49.462</Modified>
+      <Modified>2018-09-12T13:45:24.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -699,6 +699,26 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2018-05-16T09:28:36.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2018-09-06T10:16:55.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <Modified>2018-09-06T10:16:55.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <Modified>2018-09-06T10:16:55.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <Modified>2018-09-06T10:16:55.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2018-09-06T10:16:55.424</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -862,6 +882,31 @@
       <PackagePath>Assets\Step2.png</PackagePath>
       <Modified>2018-09-04T13:54:02.757</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-06T10:16:28.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-06T10:16:28.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-06T10:16:29.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-06T10:16:29.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-06T10:16:29.077</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -906,19 +951,10 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-06T09:14:50.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-10T12:50:41.647</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-06T09:14:24.789</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\mycourse.json">
-      <PackagePath>Assets\mycourse.json</PackagePath>
-      <Modified>2018-09-05T13:25:30.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -926,27 +962,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\NTUTimetable v1.0.xr.xml">
       <PackagePath>NTUTimetable v1.0.xr.xml</PackagePath>
-      <Modified>2018-09-06T08:53:19.710</Modified>
+      <Modified>2018-09-12T13:40:06.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-09-06T09:25:49.230</Modified>
+      <Modified>2018-09-12T13:45:24.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Addcourse.xbf">
       <PackagePath>Addcourse.xbf</PackagePath>
-      <Modified>2018-09-06T09:25:49.230</Modified>
+      <Modified>2018-09-12T13:45:24.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2018-09-12T13:45:24.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\CalendarView.xbf">
       <PackagePath>CalendarView.xbf</PackagePath>
-      <Modified>2018-09-06T09:25:49.223</Modified>
+      <Modified>2018-09-12T13:45:24.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\ListView.xbf">
       <PackagePath>ListView.xbf</PackagePath>
-      <Modified>2018-09-06T09:25:49.230</Modified>
+      <Modified>2018-09-12T13:45:24.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-09-06T09:25:49.230</Modified>
+      <Modified>2018-09-12T13:45:24.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Setting.xbf">
+      <PackagePath>Setting.xbf</PackagePath>
+      <Modified>2018-09-12T13:45:24.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -955,11 +999,11 @@
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-06T09:21:19.418</Modified>
+      <Modified>2018-09-12T13:42:55.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Core\NTUTimetable v1.0.exe">
       <PackagePath>NTUTimetable v1.0.exe</PackagePath>
-      <Modified>2018-09-06T09:25:49.962</Modified>
+      <Modified>2018-09-12T13:45:24.866</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

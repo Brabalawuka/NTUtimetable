@@ -56,7 +56,7 @@ namespace NTUTimetable_v1._0
         {
             if (args.IsSettingsSelected)
             {
-                Dialog("Await further development......");
+                MainPageFrame.Navigate(typeof(Setting));
             }
             else
             {

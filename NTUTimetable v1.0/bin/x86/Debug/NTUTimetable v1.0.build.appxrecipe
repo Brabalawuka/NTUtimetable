@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>2af78d76-e9f8-4031-976d-12f69dd9f253</PackageIdentityName>
-    <PackageIdentityPublisher>CN=lvziz</PackageIdentityPublisher>
+    <PackageIdentityName>47b220ef-c432-4b00-b1b5-3e06de724d79</PackageIdentityName>
+    <PackageIdentityPublisher>CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -523,6 +523,21 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -653,6 +668,26 @@
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\Step2.png">
       <PackagePath>Assets\Step2.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -688,16 +723,9 @@
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Assets\mycourse.json">
-      <PackagePath>Assets\mycourse.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -711,6 +739,9 @@
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Addcourse.xbf">
       <PackagePath>Addcourse.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\CalendarView.xbf">
       <PackagePath>CalendarView.xbf</PackagePath>
     </AppxPackagedFile>
@@ -719,6 +750,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lvziz\source\repos\NTUTimetable v1.0\NTUTimetable v1.0\bin\x86\Debug\Setting.xbf">
+      <PackagePath>Setting.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

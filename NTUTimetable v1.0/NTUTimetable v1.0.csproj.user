@@ -10,7 +10,7 @@
     <AppxPackageIsForStore>True</AppxPackageIsForStore>
     <AppxShowAllApps>False</AppxShowAllApps>
     <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
-    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
     <PackageLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</PackageLogoSource>
     <BadgeLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</BadgeLogoSource>
   </PropertyGroup>

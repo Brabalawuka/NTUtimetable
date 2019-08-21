@@ -6,6 +6,7 @@ We already have a lot of stressful courses why not make the timetable look nicer
 
 ## Feature:
 
+Automatically parse ur courses and form timetable!
 Fluent Desgin Language
 Virbrant Colors
 Display only the course u have in **CURRENT WEEK** 

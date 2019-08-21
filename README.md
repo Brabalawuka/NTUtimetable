@@ -16,4 +16,5 @@ Display only the course u have in **CURRENT WEEK**
 The app doesnot connect the Internet so no privacy issue, it is a **UWP app** thus is much more safer than an **.exe app**
 
 Download this release and unzip and follow instruction
-Minimum System Requirements: **Windows 10 Version 1803 (10.0; Build 10.0.17134.0)**
+Minimum System Requirements:  
+**Windows 10 Version 1803 (10.0; Build 10.0.17134.0)**

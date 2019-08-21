@@ -21,6 +21,6 @@ The app doesnot connect the Internet so no privacy issue, it is a offline **UWP 
 
 ## INSTALLATION:
 
-[Download this release](https://github.com/Brabalawuka/NTUtimetable/releases/tag/V1.0) and unzip and follow instruction
+[Download this release](https://github.com/Brabalawuka/NTUtimetable/releases/tag/V1.0) and unzip and follow instruction.    
 Minimum System Requirements:  
 **Windows 10 Version 1803 (10.0; Build 10.0.17134.0)**

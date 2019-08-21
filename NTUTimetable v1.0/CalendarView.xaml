@@ -242,7 +242,7 @@
 
                 
                 
-                <Border AccessKey="" Grid.Row="1" Grid.Column="1" Style="{StaticResource Borderr}"/>
+                <Border Name="border_1_1" Grid.Row="1" Grid.Column="1" Style="{StaticResource Borderr}"/>
                 <Border Name="border_2_1" Grid.Row="2" Grid.Column="1" Style="{StaticResource Borderr}"/>
                 <Border Name="border_3_1" Grid.Row="3" Grid.Column="1" Style="{StaticResource Borderr}"/>
                 <Border Name="border_4_1" Grid.Row="4" Grid.Column="1" Style="{StaticResource Borderr}"/>

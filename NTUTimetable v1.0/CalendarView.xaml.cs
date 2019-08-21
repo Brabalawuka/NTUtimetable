@@ -18,6 +18,7 @@ using Windows.Storage;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
 
 // https://go.microsoft.com/fwlink/?LinkId=234238 上介绍了“空白页”项模板
@@ -69,6 +70,7 @@ namespace NTUTimetable_v1._0
 
             foreach (var mycourse in mycourseinfolist)
             {
+                Debug.WriteLine("I am here");
                 
                 JArray myclassarray = mycourse.ClassArray;
                 foreach (var myclass in myclassarray)
@@ -76,13 +78,16 @@ namespace NTUTimetable_v1._0
                     Class_info myclassinfo = myclass.ToObject<Class_info>();
                     if ( myclassinfo.WeekSpan.Contains(myweek.week))
                     {
+                        Debug.WriteLine("I am here2");
                         Mycourse(mycourse.CourseIndex, mycourse.CourseCode, myclassinfo.group, myclassinfo.CourseType, myclassinfo.Venue, colornum.ToString(), myclassinfo.Row_Time, myclassinfo.Col_day, myclassinfo.RowSpan_Duration);
                         int setopacitycount = myclassinfo.RowSpan_Duration;
                         int setopacityrow = myclassinfo.Row_Time;
                         int setopacitycol = myclassinfo.Col_day;
                         while (setopacitycount > 0)
                         {
+                            
                             string bordername = "border_" + setopacityrow.ToString() + "_" + setopacitycol.ToString();
+                            Debug.WriteLine(bordername);
                             Object myborder = mygrid.FindName(bordername);
                             Border a = (Border)myborder;
                             a.Opacity = 0;

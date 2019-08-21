@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.8.0" />
+  <Identity Name="45649LZZBrabalawuka.NTUTimetable" Publisher="CN=C006BC2D-F218-401E-AA1C-5D43A8E2A4CE" Version="1.0.11.0" />
   <mp:PhoneIdentity PhoneProductId="47b220ef-c432-4b00-b1b5-3e06de724d79" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>NTUTimetable</DisplayName>

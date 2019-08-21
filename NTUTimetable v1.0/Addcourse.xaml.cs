@@ -72,25 +72,25 @@ namespace NTUTimetable_v1._0
                     string mycourseinfostring = mycourseinfotextbox.Text;
                     mycourseinfostring.Trim();
 
-                    var a = mycourseinfostring.Split("\r");
-                    var b = new List<string>();
+                    var rawLines = mycourseinfostring.Split("\r");
+                    var effectiveLines = new List<string>();
 
                     Exception exception = new Exception();
 
-                    for (int i = 11; i < a.Length; i++)
+                    for (int i = 11; i < rawLines.Length; i++)
                     {
-                        var temp = a[i].Split("\t");
-                        if (temp.Length >= 6 && temp[temp.Length - 1][0] == 'T')
-                            b.Add(a[i]);
+                        var Lines = rawLines[i].Split("\t");
+                        if (Lines.Length >= 6 && Lines[Lines.Length - 1][0] == 'T')
+                            effectiveLines.Add(rawLines[i]);
 
                     }
-                    if (b.Count <= 18)
+                    if (effectiveLines.Count <= 18)
                         throw new FormatException();
                     List<Course_info> mycourseinfolist = new List<Course_info>();
 
-                    for (int i = 0; i < b.Count; i++)
+                    for (int i = 0; i < effectiveLines.Count; i++)
                     {
-                        var temp = b[i].Split("\t");
+                        var temp = effectiveLines[i].Split("\t");
                         if (temp.Length == 15)
                         {
                             Course_info mycourseinfo = new Course_info();
@@ -110,9 +110,9 @@ namespace NTUTimetable_v1._0
                             myclassinfoarray.Add(myobject);
 
 
-                            for (int k = i + 1; k < b.Count; k++)
+                            for (int k = i + 1; k < effectiveLines.Count; k++)
                             {
-                                var temp3 = b[k].Split("\t");
+                                var temp3 = effectiveLines[k].Split("\t");
                                 if (temp3.Length == 6)
                                 {
                                     Class_info myclassinfo2 = new Class_info();

@@ -49,7 +49,8 @@ namespace NTUTimetable_v1._0
 
 
         public async Task readExamFile() {
-            examfile = await StorageFile.GetFileFromPathAsync("Assets/examinfo.json");
+            examfile = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + "examinfo.json")); 
+            
             string exams = await FileIO.ReadTextAsync(examfile);
             JArray examsarray = JArray.Parse(exams);
             foreach (var item in examsarray)

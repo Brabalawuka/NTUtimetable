@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-08-23T03:23:47.011</Modified>
+      <Modified>2019-08-23T03:38:32.439</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\NTUTimetable v1.0.exe">
       <PackagePath>entrypoint\NTUTimetable v1.0.exe</PackagePath>
-      <Modified>2019-08-23T03:23:46.508</Modified>
+      <Modified>2019-08-23T03:38:31.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lvziz\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -969,31 +969,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.267</Modified>
+      <Modified>2019-08-23T03:38:31.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\Addcourse.xbf">
       <PackagePath>UI\Addcourse.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.268</Modified>
+      <Modified>2019-08-23T03:38:31.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\BlankPage1.xbf">
       <PackagePath>UI\BlankPage1.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.268</Modified>
+      <Modified>2019-08-23T03:38:31.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\CalendarView.xbf">
       <PackagePath>UI\CalendarView.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.257</Modified>
+      <Modified>2019-08-23T03:38:31.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\ListView.xbf">
       <PackagePath>UI\ListView.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.269</Modified>
+      <Modified>2019-08-23T03:38:31.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\MainPage.xbf">
       <PackagePath>UI\MainPage.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.269</Modified>
+      <Modified>2019-08-23T03:38:31.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\UI\Setting.xbf">
       <PackagePath>UI\Setting.xbf</PackagePath>
-      <Modified>2019-08-23T03:23:46.269</Modified>
+      <Modified>2019-08-23T03:38:31.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1005,7 +1005,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Debug\Core\NTUTimetable v1.0.exe">
       <PackagePath>NTUTimetable v1.0.exe</PackagePath>
-      <Modified>2019-08-23T03:23:47.007</Modified>
+      <Modified>2019-08-23T03:38:32.420</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

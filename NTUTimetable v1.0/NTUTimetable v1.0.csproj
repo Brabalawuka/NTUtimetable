@@ -101,29 +101,29 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Addcourse.xaml.cs">
+    <Compile Include="UI\Addcourse.xaml.cs">
       <DependentUpon>Addcourse.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="BlankPage1.xaml.cs">
+    <Compile Include="UI\BlankPage1.xaml.cs">
       <DependentUpon>BlankPage1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CalendarView.xaml.cs">
+    <Compile Include="UI\CalendarView.xaml.cs">
       <DependentUpon>CalendarView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="class_info.cs" />
-    <Compile Include="currentweek.cs" />
-    <Compile Include="findcourse.cs" />
-    <Compile Include="ListView.xaml.cs">
+    <Compile Include="Utils\ClassInfo.cs" />
+    <Compile Include="Utils\CurrentWeek.cs" />
+    <Compile Include="Utils\CourseUtils.cs" />
+    <Compile Include="UI\ListView.xaml.cs">
       <DependentUpon>ListView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
+    <Compile Include="UI\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Setting.xaml.cs">
+    <Compile Include="UI\Setting.xaml.cs">
       <DependentUpon>Setting.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -141,6 +141,7 @@
     <Content Include="Assets\LargeTile.scale-150.png" />
     <Content Include="Assets\LargeTile.scale-200.png" />
     <Content Include="Assets\LargeTile.scale-400.png" />
+    <None Include="Assets\examinfo.json" />
     <None Include="NTUTimetable v1.0_StoreKey.pfx" />
     <None Include="NTUTimetable v1.0_TemporaryKey.pfx" />
   </ItemGroup>
@@ -196,27 +197,27 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Addcourse.xaml">
+    <Page Include="UI\Addcourse.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="BlankPage1.xaml">
+    <Page Include="UI\BlankPage1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="CalendarView.xaml">
+    <Page Include="UI\CalendarView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ListView.xaml">
+    <Page Include="UI\ListView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainPage.xaml">
+    <Page Include="UI\MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Setting.xaml">
+    <Page Include="UI\Setting.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

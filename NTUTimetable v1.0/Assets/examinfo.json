@@ -1,0 +1,4690 @@
+[
+ {
+   "Date": "20 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "AAQ10A",
+   "Course Title": "PRINCIPLES OF NUTRITION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "21 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "AGQ28B",
+   "Course Title": "EVERYDAY SCIENCE IN FOODS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "AC1103",
+   "Course Title": "ACCOUNTING I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "AD1101",
+   "Course Title": "FINANCIAL ACCOUNTING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BA3201",
+   "Course Title": "LIFE CONTINGENCIES & DEMOGRAPHY",
+   "Duration": 3
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BF2207",
+   "Course Title": "INTERNATIONAL FINANCE",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BS1200",
+   "Course Title": "UNDERSTANDING SINGAPORE HEALTHCARE SYSTEM",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CE2004",
+   "Course Title": "CIRCUITS & SIGNAL ANALYSIS",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CE4064",
+   "Course Title": "SECURITY MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CH2109",
+   "Course Title": "DECISION TOOLS FOR ENGINEERING BUSINESS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CH4106",
+   "Course Title": "FORMULATION OF ACTIVE PHARMACEUTICAL INGREDIENTS DOSAGE FORM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CZ4064",
+   "Course Title": "SECURITY MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EE2004",
+   "Course Title": "DIGITAL ELECTRONICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EE4188",
+   "Course Title": "WIRELESS COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EE4305",
+   "Course Title": "DIGITAL DESIGN WITH HDL",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EN2002",
+   "Course Title": "ENVIRONMENTAL BIOLOGY & MICROBIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HE1002",
+   "Course Title": "MACROECONOMIC PRINCIPLES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HE4020",
+   "Course Title": "ECONOMETRIC TIME SERIES ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HL1001",
+   "Course Title": "INTRODUCTION TO THE STUDY OF LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "IM1004",
+   "Course Title": "DIGITAL ELECTRONICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "IM4188",
+   "Course Title": "WIRELESS COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MA4002",
+   "Course Title": "FLUID DYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MA4704",
+   "Course Title": "AEROELASTICITY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MH4200",
+   "Course Title": "ABSTRACT ALGEBRA II",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MH4511",
+   "Course Title": "SAMPLING & SURVEY",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MS1015",
+   "Course Title": "MATERIALS SCIENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MT2002",
+   "Course Title": "SHIPPING ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "PH1105",
+   "Course Title": "OPTICS, VIBRATIONS & WAVES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "AC3102",
+   "Course Title": "RISK REPORTING & ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "BF3207",
+   "Course Title": "ALTERNATIVE INVESTMENTS",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "BM2505",
+   "Course Title": "CHANNEL VALUE CREATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "BS2102",
+   "Course Title": "CHINESE MATERIA MEDICA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "BS3101",
+   "Course Title": "TREATISE ON EXOGENOUS FEBRILE DISEASES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CE1005",
+   "Course Title": "DIGITAL LOGIC",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CE3001",
+   "Course Title": "ADVANCED COMPUTER ARCHITECTURE",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CM2021",
+   "Course Title": "INORGANIC & BIOINORGANIC CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CV3014",
+   "Course Title": "TRANSPORTATION ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CZ1005",
+   "Course Title": "DIGITAL LOGIC",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CZ3001",
+   "Course Title": "ADVANCED COMPUTER ARCHITECTURE",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "EE3002",
+   "Course Title": "MICROPROCESSORS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HA2017",
+   "Course Title": "FOREIGN POLICY ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HC2005",
+   "Course Title": "GENERAL HISTORY OF CHINA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HE3001",
+   "Course Title": "MATHEMATICAL ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HS3001",
+   "Course Title": "CONTEMPORARY SOCIAL THEORY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "IM2002",
+   "Course Title": "MICROPROCESSORS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MA2001",
+   "Course Title": "MECHANICS OF MATERIALS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MS3011",
+   "Course Title": "METALLIC & CERAMIC MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MS4613",
+   "Course Title": "WEARABLE SENSORS FOR HEALTHCARE",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "PH3101",
+   "Course Title": "QUANTUM MECHANICS II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "PH4402",
+   "Course Title": "CONDENSED MATTER PHYSICS II",
+   "Duration": 2
+ },
+ {
+   "Date": "22 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "PH4408",
+   "Course Title": "NUCLEAR PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "AC2105",
+   "Course Title": "ACCOUNTING FOR DECISION MAKING & CONTROL",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "BG3102",
+   "Course Title": "CONTROL IN BIOSYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "BS1101",
+   "Course Title": "BASICS OF TCM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "BS3021",
+   "Course Title": "BIOIMAGING TECHNIQUES IN EM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CH4451",
+   "Course Title": "PROCESS ENGINEERING FOR GAS/LNG & PHARMACEUTICAL INDUSTRIES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CY1308",
+   "Course Title": "PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CZ2004",
+   "Course Title": "HUMAN COMPUTER INTERACTION",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "EE3019",
+   "Course Title": "INTEGRATED ELECTRONICS",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "EE4476",
+   "Course Title": "IMAGE PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HL1002",
+   "Course Title": "SURVEY OF ENGLISH LITERATURE 1",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HP3302",
+   "Course Title": "COGNITIVE DEVELOPMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HS1001",
+   "Course Title": "PERSON & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "IM4476",
+   "Course Title": "IMAGE PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MA2701",
+   "Course Title": "FLIGHT PERFORMANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MS3013",
+   "Course Title": "ENVIRONMENTAL EFFECTS ON MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MT4003",
+   "Course Title": "MARITIME STRATEGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "PH1011",
+   "Course Title": "PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "PH1012",
+   "Course Title": "PHYSICS A",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "PH3405",
+   "Course Title": "SUPERCONDUCTIVITY,SUPERFLUIDITY & BOSE-EINSTEIN CONDENSATES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "AGQ28C",
+   "Course Title": "FOOD & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BA2203",
+   "Course Title": "STATISTICAL MODELLING",
+   "Duration": 3
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BF2209",
+   "Course Title": "DERIVATIVE SECURITIES",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BR2201",
+   "Course Title": "RISK MODELLING",
+   "Duration": 3
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BS1008",
+   "Course Title": "BIOSTATISTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BS3027",
+   "Course Title": "SPECTROSCOPIC METHODS IN BIOMEDICAL STRUCTURAL BIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CE1011",
+   "Course Title": "ENGINEERING MATHEMATICS I",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CM3041",
+   "Course Title": "PHYSICAL & BIOPHYSICAL CHEMISTRY 2",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CV3011",
+   "Course Title": "REINFORCED CONCRETE DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CZ1011",
+   "Course Title": "ENGINEERING MATHEMATICS I",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "EE2001",
+   "Course Title": "CIRCUIT ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "EE4647",
+   "Course Title": "MICROELECTRONIC DEVICES",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HA2015",
+   "Course Title": "CHINA IN AFRICA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HC1001",
+   "Course Title": "INTRODUCTION TO THE STUDY OF LITERATURE & CULTURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HE2011",
+   "Course Title": "LABOUR ECONOMICS & LABOUR RELATIONS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HP3901",
+   "Course Title": "CULTURAL PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HS2001",
+   "Course Title": "CLASSICAL SOCIAL THEORY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MA3703",
+   "Course Title": "FLIGHT DYNAMICS",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MA4001",
+   "Course Title": "ENGINEERING DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MA4011",
+   "Course Title": "ENGINEERING PRODUCT DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MH3300",
+   "Course Title": "GRAPH THEORY",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MS4610",
+   "Course Title": "ADVANCED BIOMATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "PH2103",
+   "Course Title": "THERMAL PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "PH4403",
+   "Course Title": "SURFACES & INTERFACES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "RE1013",
+   "Course Title": "MATERIALS & MANUFACTURING",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "SS1101",
+   "Course Title": "HUMAN ANATOMY & PHYSIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "SS3111",
+   "Course Title": "ENVIRONMENTAL EXERCISE PHYSIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "SS3611",
+   "Course Title": "EVENT & FACILITIES MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "BG2104",
+   "Course Title": "ELECTRONICS FOR BIOMEDICAL ENGINEERS",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "BU8601",
+   "Course Title": "FUNDAMENTALS OF MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CE4068",
+   "Course Title": "APPLICATION SECURITY",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CH2106",
+   "Course Title": "INTRODUCTION TO MULTIDISCIPLINARY ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CM8002",
+   "Course Title": "FORENSIC SCIENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CM8022",
+   "Course Title": "APPLICATIONS OF FORENSIC SCIENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CV2013",
+   "Course Title": "ENGINEERING GEOLOGY & SOIL MECHANICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CV4112",
+   "Course Title": "TRAFFIC ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CZ4068",
+   "Course Title": "APPLICATION SECURITY",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HA1001",
+   "Course Title": "INTRODUCTION TO INTERNATIONAL RELATIONS & FOREIGN POLICY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HE9091",
+   "Course Title": "PRINCIPLES OF ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HG8001",
+   "Course Title": "LANGUAGE PUZZLE:THE STUDY OF HUMAN LANGUAGE",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HP8003",
+   "Course Title": "ARE YOU OKAY? MENTAL HEALTH IN SINGAPORE",
+   "Duration": 2
+ },
+ {
+   "Date": "25 November 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "MA4849",
+   "Course Title": "OPERATIONS RESEARCH",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "AAL28A",
+   "Course Title": "SINGAPORE STUDIES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "AB1301",
+   "Course Title": "BUSINESS LAW",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BA3203",
+   "Course Title": "ACTUARIAL ASPECTS OF ASSET VALUATION",
+   "Duration": 3
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BF3204",
+   "Course Title": "FINANCIAL MODELLING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BG1131",
+   "Course Title": "MOLECULAR CELL BIOLOGY FOR BIOMEDICAL ENGINEERS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BS1002",
+   "Course Title": "BIOPHYSICAL CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BS4010",
+   "Course Title": "SYNTHETIC BIOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CE2001",
+   "Course Title": "ALGORITHMS",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CS4020",
+   "Course Title": "MAGAZINE PUBLISHING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CZ2001",
+   "Course Title": "ALGORITHMS",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "EE2006",
+   "Course Title": "ENGINEERING MATHEMATICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "EE4268",
+   "Course Title": "ROBOTICS & AUTOMATION",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HE1001",
+   "Course Title": "MICROECONOMIC PRINCIPLES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HL2007",
+   "Course Title": "CONTEMPORARY LITERATURE & CULTURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HS2005",
+   "Course Title": "ORGANIZATIONS & ORGANIZATIONAL CHANGE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HS4015",
+   "Course Title": "SOCIOLOGY OF REPRODUCTION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "IM2006",
+   "Course Title": "ENGINEERING MATHEMATICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MA2007",
+   "Course Title": "THERMODYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MA2012",
+   "Course Title": "INTRODUCTION TO MECHATRONICS SYSTEMS DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MH1802",
+   "Course Title": "CALCULUS FOR THE SCIENCES",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MH4510",
+   "Course Title": "STATISTICAL LEARNING & DATA MINING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MS3014",
+   "Course Title": "ANALYSIS OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MT1001",
+   "Course Title": "MATHEMATICS I FOR MARITIME STUDIES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "PH3102",
+   "Course Title": "CONDENSED MATTER PHYSICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "AC2101",
+   "Course Title": "ACCOUNTING RECOGNITION & MEASUREMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "AD2101",
+   "Course Title": "MANAGEMENT ACCOUNTING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "BG0491",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "BS4004",
+   "Course Title": "CURRENT TOPICS IN IMMUNOLOGY",
+   "Duration": 3
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CH0491",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CH9201",
+   "Course Title": "FOOD CHEMISTRY",
+   "Duration": 3
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CM3011",
+   "Course Title": "CHEMICAL SPECTROSCOPY & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CS8300",
+   "Course Title": "SCIENCE FICTION FILM",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CV0002",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "EE0002",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "EE0040",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HL2024",
+   "Course Title": "APPROACHES TO LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HP3806",
+   "Course Title": "CONSUMER PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HS1002",
+   "Course Title": "SINGAPORE SOCIETY IN TRANSITION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "IM0002",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "IM0040",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MA0101",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MH2100",
+   "Course Title": "CALCULUS III",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MS2013",
+   "Course Title": "POLYMERS & COMPOSITES",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MS4651",
+   "Course Title": "THIN FILM TECHNOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "PH4506",
+   "Course Title": "ELECTRODYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "PH4606",
+   "Course Title": "FUNDAMENTALS & APPLICATIONS OF ACOUSTICS",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "SS2104",
+   "Course Title": "SPORT MARKETING & SPONSORSHIP",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "SS3612",
+   "Course Title": "HUMAN RESOURCE MANAGEMENT IN SPORT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "BG3104",
+   "Course Title": "BIOMEDICAL IMAGING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "BU8101",
+   "Course Title": "ACCOUNTING: A USER PERSPECTIVE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "BU8401",
+   "Course Title": "MANAGEMENT DECISION TOOLS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CE4032",
+   "Course Title": "DATA ANALYTICS & MINING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CH1131",
+   "Course Title": "BIOMOLECULAR ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CM9081",
+   "Course Title": "MEDICINAL CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CZ4032",
+   "Course Title": "DATA ANALYTICS & MINING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "EE8086",
+   "Course Title": "ASTRONOMY - STARS, GALAXIES & COSMOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HA1002",
+   "Course Title": "INTRODUCTION TO POLITICAL THEORY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HC0201",
+   "Course Title": "CHINESE LITERATURE IN SINGAPORE",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HE3007",
+   "Course Title": "FINANCIAL ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HP2200",
+   "Course Title": "BIOLOGICAL PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HY8002",
+   "Course Title": "LOGIC & CRITICAL THINKING",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MA4838",
+   "Course Title": "NON-CONVENTIONAL MANUFACTURING PROCESSES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MA4850",
+   "Course Title": "SUPPLY CHAIN & LOGISTICS MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MS8205",
+   "Course Title": "MATERIALS FOR ENERGY CONVERSION",
+   "Duration": 2
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MT2003",
+   "Course Title": "MARITIME TECHNOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "26 November 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "SU3001",
+   "Course Title": "INTEGRATED URBAN MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "AC3103",
+   "Course Title": "ACCOUNTING ANALYSIS & EQUITY VALUATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BA2202",
+   "Course Title": "MATHEMATICS OF FINANCE",
+   "Duration": 3
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BF2101",
+   "Course Title": "FINANCIAL STATEMENT ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BS2003",
+   "Course Title": "BIOCHEMISTRY II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CE2002",
+   "Course Title": "OBJECT ORIENTED DESIGN & PROGRAMMING",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CM4043",
+   "Course Title": "MOLECULAR MODELLING:PRINCIPLES & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CV4116",
+   "Course Title": "COASTAL ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CZ2002",
+   "Course Title": "OBJECT ORIENTED DESIGN & PROGRAMMING",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EE3018",
+   "Course Title": "INTRODUCTION TO PHOTONICS",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EE4303",
+   "Course Title": "MIXED-SIGNAL IC DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EE4717",
+   "Course Title": "WEB APPLICATION DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HA1012",
+   "Course Title": "FUNDAMENTALS OF POLITICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HC1002",
+   "Course Title": "INTRODUCTION TO CHINESE LANGUAGE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "IM4717",
+   "Course Title": "WEB APPLICATION DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MA3001",
+   "Course Title": "MACHINE ELEMENT DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MH1810",
+   "Course Title": "MATHEMATICS 1",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MH2801",
+   "Course Title": "COMPLEX METHODS FOR THE SCIENCES",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MS4012",
+   "Course Title": "QUALITY CONTROL",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MT4002",
+   "Course Title": "ESSENTIALS OF PROJECT MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "AAB20C",
+   "Course Title": "ANIMAL EVOLUTION & DIVERSITY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "AB1501",
+   "Course Title": "MARKETING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "AGQ28E",
+   "Course Title": "PERSONAL FINANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BG2141",
+   "Course Title": "MECHANICS OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BR3208",
+   "Course Title": "OPERATIONAL RISK MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BS3001",
+   "Course Title": "NEUROBIOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CE1006",
+   "Course Title": "COMPUTER ORGANISATION & ARCHITECTURE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CM2031",
+   "Course Title": "ORGANIC & BIOORGANIC CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CZ1006",
+   "Course Title": "COMPUTER ORGANISATION & ARCHITECTURE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CZ3005",
+   "Course Title": "ARTIFICIAL INTELLIGENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE1002",
+   "Course Title": "PHYSICS FOUNDATION FOR ELECTRICAL & ELECTRONIC ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE3001",
+   "Course Title": "ENGINEERING ELECTROMAGNETICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE4413",
+   "Course Title": "DSP SYSTEM DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE4613",
+   "Course Title": "CMOS PROCESS & DEVICE SIMULATION",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EN3001",
+   "Course Title": "SOLID & HAZARDOUS WASTE MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HA2014",
+   "Course Title": "PUBLIC ORGANISATION & MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HL2002",
+   "Course Title": "RENAISSANCE LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HL3006",
+   "Course Title": "MODERN DRAMA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HP4102",
+   "Course Title": "TRAUMA PSYCHOLOGY & CRISIS MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "IM4413",
+   "Course Title": "DSP SYSTEM DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MA2005",
+   "Course Title": "ENGINEERING GRAPHICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MA3005",
+   "Course Title": "CONTROL THEORY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MA3705",
+   "Course Title": "AEROSPACE CONTROL THEORY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MH2811",
+   "Course Title": "MATHEMATICS II",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MH3101",
+   "Course Title": "COMPLEX ANALYSIS",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "RE8011",
+   "Course Title": "FUNDAMENTALS OF MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "AC2302",
+   "Course Title": "COMPANY LAW & CORPORATE GOVERNANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "BG3105",
+   "Course Title": "BIOMEDICAL INSTRUMENTATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "BS8004",
+   "Course Title": "TRADITIONAL CHINESE MEDICINE: A PRIMER COURSE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "BU8201",
+   "Course Title": "BUSINESS FINANCE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "CE4045",
+   "Course Title": "NATURAL LANGUAGE PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "CM9101",
+   "Course Title": "FOOD CHEMISTRY & NUTRITION",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "CV4011",
+   "Course Title": "PROJECT PLANNING & MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "CZ4045",
+   "Course Title": "NATURAL LANGUAGE PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "EE8084",
+   "Course Title": "CYBER SECURITY",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "ES8005",
+   "Course Title": "ENVIRONMENTAL EARTH SYSTEMS SCIENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HC2004",
+   "Course Title": "DIRECTED READINGS OF LITERARY WORKS: YUAN, MING & QING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HE3016",
+   "Course Title": "PRINCIPLES OF MATHEMATICS FINANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HL4013",
+   "Course Title": "ADVANCED STUDIES IN LITERATURE & CULTURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HL8001",
+   "Course Title": "MADNESS IN LITERATURE & FILM",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HP1000",
+   "Course Title": "INTRODUCTION TO PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HP8005",
+   "Course Title": "INTRODUCTION TO HUMAN RESOURCE MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "HS2007",
+   "Course Title": "UNDERSTANDING GLOBALIZATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "MA4856",
+   "Course Title": "NAVAL ARCHITECTURE & MARINE ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "27 November 2019",
+   "Day": "Wednesday",
+   "Time": "5.00 pm",
+   "Course": "MA8103",
+   "Course Title": "HUMAN RESOURCE MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "AC2401",
+   "Course Title": "ACCOUNTING INFORMATION SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BG4341",
+   "Course Title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN BIOMEDICAL ENGINEER",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BS1003",
+   "Course Title": "ORGANIC CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BS4015",
+   "Course Title": "PLANT BIOTECHNOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CE2005",
+   "Course Title": "OPERATING SYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CH4341",
+   "Course Title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN CHEMICAL ENG",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CM1031",
+   "Course Title": "BASIC ORGANIC CHEMISTRY WITH LABORATORY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CS0204",
+   "Course Title": "BASIC MEDIA WRITING",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CS8207",
+   "Course Title": "FIFTY DISCOVERIES, FIFTY INVENTIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CV3012",
+   "Course Title": "STEEL DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CV4120",
+   "Course Title": "ADVANCED REINFORCED CONCRETE DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CZ2005",
+   "Course Title": "OPERATING SYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE2008",
+   "Course Title": "DATA STRUCTURES & ALGORITHMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE4340",
+   "Course Title": "VLSI SYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE4532",
+   "Course Title": "POWER ELECTRONICS & DRIVES",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HA2009",
+   "Course Title": "THE MAKING OF E-GOVERNMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HC2040",
+   "Course Title": "UNDERSTANDING CHINA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HG1001",
+   "Course Title": "MIND & MEANING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HL2004",
+   "Course Title": "SENSIBILITY & ROMANTICISM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HP3703",
+   "Course Title": "HEALTH PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HS1003",
+   "Course Title": "SOCIAL PROBLEMS IN A GLOBAL CONTEXT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "IM1001",
+   "Course Title": "DATA STRUCTURES & ALGORITHMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MA2006",
+   "Course Title": "ENGINEERING MATHEMATICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MA3700",
+   "Course Title": "AIRCRAFT STRUCTURES I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MH3512",
+   "Course Title": "STOCHASTIC PROCESSES",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MS2015",
+   "Course Title": "MECHANICAL BEHAVIOUR OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MS4660",
+   "Course Title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN MATLS SCI & ENG",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "PH3502",
+   "Course Title": "CHAOTIC DYNAMICAL SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BC2402",
+   "Course Title": "DESIGNING & DEVELOPING DATABASES",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BE1401",
+   "Course Title": "BUSINESS OPERATIONS & PROCESS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BF3211",
+   "Course Title": "COMMODITIES TRADING & RISK MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BF3214",
+   "Course Title": "COMMODITIES TRADING",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BM3506",
+   "Course Title": "STRATEGIC BRAND MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BS2101",
+   "Course Title": "ANATOMY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BS3032",
+   "Course Title": "ENVIRONMENTAL MICROBIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CE1012",
+   "Course Title": "ENGINEERING MATHEMATICS II",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CH3101",
+   "Course Title": "PROCESS CONTROL & DYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CH3111",
+   "Course Title": "PROCESS CONTROL & DYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CM4013",
+   "Course Title": "CURRENT TOPICS IN ANALYTICAL CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CM9001",
+   "Course Title": "CONCEPTUAL CHEMISTRY WITH LABORATORY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CS4027",
+   "Course Title": "NARRATIVE FILM & TV:CONCEPTS & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CV2012",
+   "Course Title": "STRUCTURAL ANALYSIS II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CY1101",
+   "Course Title": "PRINCIPLES OF MODERN CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CZ1012",
+   "Course Title": "ENGINEERING MATHEMATICS II",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CZ3002",
+   "Course Title": "ADVANCED SOFTWARE ENGINEERING",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE2007",
+   "Course Title": "ENGINEERING MATHEMATICS II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE4491",
+   "Course Title": "PROBABILITY THEORY & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE4646",
+   "Course Title": "VLSI TECHNOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE4901",
+   "Course Title": "BIOMEDICAL CONTROL SYSTEM DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EN3003",
+   "Course Title": "ENVIRONMENTAL TRANSPORT PROCESSES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HC3003",
+   "Course Title": "SOUTHEAST ASIAN CHINESE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HE2005",
+   "Course Title": "PRINCIPLES OF ECONOMETRICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HE3011",
+   "Course Title": "COST-BENEFIT ANALYSIS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HL2033",
+   "Course Title": "IRISH WRITING: ROMANTICISM TO MODERNISM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HP3801",
+   "Course Title": "PSYCHOLOGY IN THE WORKPLACE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "HS2013",
+   "Course Title": "MIGRATION & MULTICULTURALISM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "IM2007",
+   "Course Title": "ENGINEERING MATHEMATICS II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MA3006",
+   "Course Title": "FLUID MECHANICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MH3600",
+   "Course Title": "KNOTS & SURFACES:INTRODUCTION TO TOPOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MS4014",
+   "Course Title": "NANOMATERIALS: FUNDAMENTALS & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "PH1104",
+   "Course Title": "MECHANICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "BG2111",
+   "Course Title": "COMPUTATIONAL METHODS IN BIOMEDICAL ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "BU8301",
+   "Course Title": "FUNDAMENTALS OF BUSINESS LAW",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "CE4062",
+   "Course Title": "COMPUTER SECURITY (SYSTEM SECURITY)",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "CM9092",
+   "Course Title": "POLYMER CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "CZ4062",
+   "Course Title": "COMPUTER SECURITY (SYSTEM SECURITY)",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "EE8061",
+   "Course Title": "INNOVATION & TECHNOLOGY MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "EM9105",
+   "Course Title": "ENERGY RESOURCES MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "ES8001",
+   "Course Title": "NATURAL HAZARDS & SOCIETY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HC2001",
+   "Course Title": "DIRECTED READINGS OF LITERARY WORKS: PRE-QIN,HAN,WEI & JIN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HC8005",
+   "Course Title": "DIRECTED READINGS OF MODERN CHINESE SONG LYRICS (IN CHINESE)",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HE3002",
+   "Course Title": "GAME THEORY & APPLICATIONS TO SOCIAL SCIENCES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HL2041",
+   "Course Title": "ASIAN HISTORICAL FICTION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HL4024",
+   "Course Title": "ADVANCED STUDIES IN CONTEMPORARY LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HP8002",
+   "Course Title": "WORKING IN THE 21ST CENTURY",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "HP8006",
+   "Course Title": "PSYCHOLOGY OF CRISIS STRESS MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "MA4803",
+   "Course Title": "NOISE & VIBRATION CONTROL",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "MA4825",
+   "Course Title": "ROBOTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "MA4842",
+   "Course Title": "ENGINEERING METROLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "MH8300",
+   "Course Title": "IT'S DISCREETLY DISCRETE WLD:MATHS IN REAL-LIFE APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "28 November 2019",
+   "Day": "Thursday",
+   "Time": "5.00 pm",
+   "Course": "MT4101",
+   "Course Title": "INTERMODAL TRANSPORTATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "AC1102",
+   "Course Title": "ACCOUNTING II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "AGQ28G",
+   "Course Title": "TEXTILES STUDY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BG3103",
+   "Course Title": "SIGNAL PROCESSING IN BIOSYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BG4215",
+   "Course Title": "BIOMEDICAL NANOTECHNOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "BS3018",
+   "Course Title": "PLANT BIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CE4057",
+   "Course Title": "TIME-CRITICAL COMPUTING",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CM3021",
+   "Course Title": "ORGANOMETALLIC CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CM4014",
+   "Course Title": "NANOSCIENCE & NANOTECHNOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CS2021",
+   "Course Title": "NEWS REPORTING & WRITING",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CV4102",
+   "Course Title": "ADVANCED STEEL DESIGN",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CY1601",
+   "Course Title": "MATHEMATICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CZ2007",
+   "Course Title": "INTRODUCTION TO DATABASES",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "CZ4057",
+   "Course Title": "TIME-CRITICAL COMPUTING",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EE2002",
+   "Course Title": "ANALOG ELECTRONICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "EE4152",
+   "Course Title": "DIGITAL COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HL2006",
+   "Course Title": "MODERNISM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HP1100",
+   "Course Title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HP4103",
+   "Course Title": "THE FORENSIC PSYCHOLOGY OF CRIME, TERRORISM & DISASTERS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HS3016",
+   "Course Title": "SOCIETIES IN COMPARATIVE PERSPECTIVE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "HT9102",
+   "Course Title": "LANGUAGE FOUNDATION FOR TRANSLATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "IM4152",
+   "Course Title": "DIGITAL COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MA3704",
+   "Course Title": "AIRCRAFT ELECTRICAL DEVICES",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MH1805",
+   "Course Title": "CALCULUS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MH4702",
+   "Course Title": "PROBABILISTIC METHODS IN OPERATIONS RESEARCH",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MS2014",
+   "Course Title": "MATERIALS STRUCTURE & DEFECTS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "MS4601",
+   "Course Title": "PRINCIPLES OF SEMICONDUCTOR DEVICES",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "PH3404",
+   "Course Title": "PHYSICS OF CLASSICAL & QUANTUM INFORMATION",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "RE1011",
+   "Course Title": "MATHEMATICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "SS0111",
+   "Course Title": "SPORT & CULTURE IN SINGAPORE: A SOCIOLOGICAL PERSPECTIVE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "SS3113",
+   "Course Title": "APPLIED SPORT INJURIES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "9.00 am",
+   "Course": "SS3613",
+   "Course Title": "LEGAL ASPECTS IN SPORT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "AB0901",
+   "Course Title": "PRINCIPLES OF ECONOMICS: A SINGAPORE PERSPECTIVE",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "AB3601",
+   "Course Title": "STRATEGIC MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "BS2001",
+   "Course Title": "PHYSIOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CE3002",
+   "Course Title": "SENSORS, INTERFACING & CONTROL",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CH1104",
+   "Course Title": "MATERIALS & ENERGY BALANCES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "CM4044",
+   "Course Title": "ARTIFICIAL INTELLIGENCE IN CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "EE1003",
+   "Course Title": "INTRODUCTION TO MATERIALS FOR ELECTRONICS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "EE3017",
+   "Course Title": "COMPUTER COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "EE4530",
+   "Course Title": "POWER SYSTEM ANALYSIS & CONTROL",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "EN2001",
+   "Course Title": "ENVIRONMENTAL ISSUES IN A CHANGING WORLD",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HC3030",
+   "Course Title": "CHINESE BUDDHISM & DAOISM",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HE4010",
+   "Course Title": "SINGAPORE ECONOMY IN A GLOBALIZED WORLD",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "HL3014",
+   "Course Title": "LATIN AMERICAN LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "IM2003",
+   "Course Title": "COMPUTER COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MA2003",
+   "Course Title": "INTRODUCTION TO THERMO-FLUIDS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MH2200",
+   "Course Title": "GROUPS & SYMMETRIES",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "MS0002",
+   "Course Title": "ENGINEERS & SOCIETY",
+   "Duration": 2
+ },
+ {
+   "Date": "29 November 2019",
+   "Day": "Friday",
+   "Time": "2.30 pm",
+   "Course": "PH1801",
+   "Course Title": "FOUNDATIONS OF PHYSICS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "AC2301",
+   "Course Title": "PRINCIPLES OF TAXATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "BG2131",
+   "Course Title": "BIOMATERIALS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "BS211S",
+   "Course Title": "EQUATIONS OF LIFE",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CE2006",
+   "Course Title": "SOFTWARE ENGINEERING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CE4042",
+   "Course Title": "NEURAL NETWORK & DEEP LEARNING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CH4101",
+   "Course Title": "CHEMICAL, BIOLOGICAL & PLANT SAFETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CV3013",
+   "Course Title": "FOUNDATION ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CZ2006",
+   "Course Title": "SOFTWARE ENGINEERING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "CZ4042",
+   "Course Title": "NEURAL NETWORK & DEEP LEARNING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "EE3014",
+   "Course Title": "DIGITAL SIGNAL PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "EE4903",
+   "Course Title": "PHYSIOLOGICAL SYSTEMS ANALYSIS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HC2030",
+   "Course Title": "PRE-QIN THOUGHT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HE4015",
+   "Course Title": "PERSONNEL ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HH1003",
+   "Course Title": "ASIA-PACIFIC IN GLOBAL HISTORY: FROM 1800",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HL2032",
+   "Course Title": "AFRICAN LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HL4030",
+   "Course Title": "SCOTTISH LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HS2028",
+   "Course Title": "GRAYING SOCIETY: ISSUES & CHALLENGES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "HT9301",
+   "Course Title": "LINGUISTICS, CULTURE & TRANSLATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "IM3001",
+   "Course Title": "DIGITAL SIGNAL PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MH2810",
+   "Course Title": "MATHEMATICS A",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MH4320",
+   "Course Title": "COMPUTATIONAL ECONOMICS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "MS2016",
+   "Course Title": "PHASE TRANSFORMATION & KINETICS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "PH3403",
+   "Course Title": "COSMOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "RE1015",
+   "Course Title": "CHEMICAL & BIO ENGINEERING FUNDAMENTALS & APPLICATIONS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "SS2101",
+   "Course Title": "FOUNDATIONS OF MOTOR BEHAVIOUR",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "SS3411",
+   "Course Title": "MOTOR CONTROL & LEARNING: THEORY TO PRACTICE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "9.00 am",
+   "Course": "SS3614",
+   "Course Title": "SPORT MEDIA & COMMUNICATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "AB1201",
+   "Course Title": "FINANCIAL MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BG4231",
+   "Course Title": "ADVANCED BIOMATERIALS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "BS1001",
+   "Course Title": "INTRODUCTORY BIOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CM2011",
+   "Course Title": "ANALYTICAL CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CM4016",
+   "Course Title": "PHARMACEUTICAL CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CV4110",
+   "Course Title": "EXCAVATION & RETAINING WALLS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CY1001",
+   "Course Title": "INTRODUCTORY BIOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "CZ3007",
+   "Course Title": "COMPILER TECHNIQUES",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "EE2003",
+   "Course Title": "SEMICONDUCTOR FUNDAMENTALS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "EE4265",
+   "Course Title": "PROCESS CONTROL SYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "EN4105",
+   "Course Title": "INTEGRATED ENVIRONMENTAL MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HA2020",
+   "Course Title": "SOCIO-POLITICAL ANALYSIS IN PUBLIC POLICY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "HP2500",
+   "Course Title": "PERSONALITY & INDIVIDUAL DIFFERENCES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MA2004",
+   "Course Title": "MANUFACTURING PROCESSES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MA3701",
+   "Course Title": "AERODYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MH1300",
+   "Course Title": "FOUNDATIONS OF MATHEMATICS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MH3210",
+   "Course Title": "NUMBER THEORY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "1.00 pm",
+   "Course": "MS4650",
+   "Course Title": "FUNCTIONAL NANOSTRUCTURE MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "BU8501",
+   "Course Title": "MARKETING FOR THE 21ST CENTURY",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CE4023",
+   "Course Title": "ADVANCED COMPUTER NETWORKS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CH2103",
+   "Course Title": "FLUID SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CV3015",
+   "Course Title": "ENVIRONMENTAL ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "CZ4023",
+   "Course Title": "ADVANCED COMPUTER NETWORKS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "EE8094",
+   "Course Title": "IMPACT OF ELECTROMAGNETIC RADIATION ON HUMANS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "EM9104",
+   "Course Title": "AIR QUALITY MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HA3015",
+   "Course Title": "MEDIA & POLITICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HE1003",
+   "Course Title": "BASIC MATHEMATICS FOR ECONOMISTS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HE3003",
+   "Course Title": "THE CHINESE ECONOMY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HE4001",
+   "Course Title": "ADVANCED MICROECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HL3041",
+   "Course Title": "GLOBAL CITIES IN WORLD LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HL4009",
+   "Course Title": "POPULAR LITERATURE & CULTURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HP3802",
+   "Course Title": "PERSONNEL PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "HP4104",
+   "Course Title": "EVIDENCE-BASED PRACTICE IN CLINICAL PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "MA4804",
+   "Course Title": "OPTIMIZATION THEORY & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "MA4811",
+   "Course Title": "PSYCHROMETRY & AIR CONDITIONING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "MA4832",
+   "Course Title": "MICROPROCESSOR SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "2 December 2019",
+   "Day": "Monday",
+   "Time": "5.00 pm",
+   "Course": "PS0002",
+   "Course Title": "INTRODUCTION TO DATA SCIENCE & ARTIFICIAL INTELLIGENCE",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "AC2104",
+   "Course Title": "ASSURANCE & AUDITING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "AC3104",
+   "Course Title": "RISK MANAGEMENT & ADVANCED AUDITING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "BS3004",
+   "Course Title": "CANCER BIOLOGY & THERAPY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CE4016",
+   "Course Title": "ADVANCED TOPICS IN ALGORITHMS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CM4012",
+   "Course Title": "STRUCTURAL DETERMINATION",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CS4043",
+   "Course Title": "SPECIALISED JOURNALISM:SCIENCE & HEALTH REPORTING",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CV1011",
+   "Course Title": "MECHANICS OF MATERIALS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CV4107",
+   "Course Title": "ENGINEERING ECONOMICS & FINANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CZ2003",
+   "Course Title": "COMPUTER GRAPHICS & VISUALISATION",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "CZ4016",
+   "Course Title": "ADVANCED TOPICS IN ALGORITHMS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "EE3012",
+   "Course Title": "COMMUNICATION PRINCIPLES",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "EE4503",
+   "Course Title": "POWER ENGINEERING DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HA3007",
+   "Course Title": "PUBLIC BUDGETING & FINANCIAL MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HL2027",
+   "Course Title": "EARLY AMERICAN LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "HP3201",
+   "Course Title": "EVOLUTIONARY PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "IM3002",
+   "Course Title": "COMMUNICATION PRINCIPLES",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MA1701",
+   "Course Title": "INTRODUCTION TO AEROSPACE ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MA3003",
+   "Course Title": "HEAT TRANSFER",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MA3010",
+   "Course Title": "THERMODYNAMICS & HEAT TRANSFER",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MH1200",
+   "Course Title": "LINEAR ALGEBRA I",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MH3510",
+   "Course Title": "REGRESSION ANALYSIS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "MS2012",
+   "Course Title": "INTRODUCTION TO MANUFACTURING PROCESSES",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "PH3601",
+   "Course Title": "FABRICATION OF MICRO-& NANOELECTRONIC DEVICES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "9.00 am",
+   "Course": "SS3010",
+   "Course Title": "APPLIED STATISTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "BF3201",
+   "Course Title": "CORPORATE FINANCE & STRATEGY",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "BS2002",
+   "Course Title": "MICROBIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CE3005",
+   "Course Title": "COMPUTER NETWORKS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CH2140",
+   "Course Title": "CHEMICAL ENGINEERING UNIT OPERATIONS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CH2141",
+   "Course Title": "CHEMICAL ENGINEERING UNIT OPERATIONS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CM2061",
+   "Course Title": "CHEMISTRY & BIOLOGICAL CHEMISTRY LABORATORY 1",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CM4017",
+   "Course Title": "BIOMEDICAL IMAGING & SENSING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CV4101",
+   "Course Title": "STRUCTURAL ANALYSIS III",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "CZ3006",
+   "Course Title": "NET CENTRIC COMPUTING",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "EE3010",
+   "Course Title": "ELECTRICAL DEVICES & MACHINES",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "EE4341",
+   "Course Title": "ADVANCED ANALOG CIRCUITS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "EE4758",
+   "Course Title": "INFORMATION SECURITY",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HC4015",
+   "Course Title": "SPECIAL TOPICS IN CLASSICAL CHINESE LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HL4023",
+   "Course Title": "ADVANCED STUDIES IN AMERICAN LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HP0201",
+   "Course Title": "EMPLOYMENT RELATIONS FOR WORK & CAREERS IN SINGAPORE",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "HS3002",
+   "Course Title": "UNDERSTANDING SOCIAL STATISTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "IM3003",
+   "Course Title": "INFORMATION SECURITY",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MA2009",
+   "Course Title": "INTRODUCTION TO ELECTRICAL CIRCUITS & ELECTRONIC DEVICES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MA3702",
+   "Course Title": "AIRCRAFT PROPULSION",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MA8005",
+   "Course Title": "AIRCRAFT ELECTRICAL & ELECTRONICS CIRCUITS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MH1811",
+   "Course Title": "MATHEMATICS 2",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "MS4013",
+   "Course Title": "BIOMATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "PH4607",
+   "Course Title": "BIOMEDICAL IMAGING & SENSING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "1.00 pm",
+   "Course": "SS1102",
+   "Course Title": "INTRODUCTION TO SPORT MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "BU9201",
+   "Course Title": "INVESTMENTS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CE4003",
+   "Course Title": "COMPUTER VISION",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CH2010",
+   "Course Title": "ENGINEERING STATISTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CM9083",
+   "Course Title": "HETEROCYCLIC CHEMISTRY",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CV2015",
+   "Course Title": "HYDRAULICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "CZ4003",
+   "Course Title": "COMPUTER VISION",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HE2006",
+   "Course Title": "INTERNATIONAL MONETARY ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HE4002",
+   "Course Title": "ADVANCED MACROECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "HP3807",
+   "Course Title": "OCCUPATIONAL HEALTH PSYCHOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MA4814",
+   "Course Title": "COMPUTATIONAL FLUID DYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MA4830",
+   "Course Title": "REALTIME SOFTWARE FOR MECHATRONIC SYSTEMS",
+   "Duration": 2
+ },
+ {
+   "Date": "3 December 2019",
+   "Day": "Tuesday",
+   "Time": "5.00 pm",
+   "Course": "MT1003",
+   "Course Title": "TRADE PRACTICE & INCOTERMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BF2201",
+   "Course Title": "INVESTMENTS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BG2112",
+   "Course Title": "CARDIOVASCULAR ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "BS3003",
+   "Course Title": "DEVELOPMENTAL BIOLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CE2007",
+   "Course Title": "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CE4022",
+   "Course Title": "PERSONAL MOBILE NETWORKS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CM3062",
+   "Course Title": "CHEMISTRY & BIOLOGICAL CHEMISTRY LABORATORY 4",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CS2400",
+   "Course Title": "FOUNDATION OF INFORMATION ANALYTICS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "CZ4022",
+   "Course Title": "PERSONAL MOBILE NETWORKS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EE3011",
+   "Course Title": "MODELLING & CONTROL",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EE4838",
+   "Course Title": "LASER ENGINEERING & APPLICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "EN3002",
+   "Course Title": "WASTEWATER ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HC4055",
+   "Course Title": "CHINESE LANGUAGE ACQUISITION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HE2004",
+   "Course Title": "INTRODUCTORY ECONOMETRICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HL3012",
+   "Course Title": "THE DISCOURSE OF LOVE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HL4034",
+   "Course Title": "BRITISH ASIAN LITERATURE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HP3204",
+   "Course Title": "AN APE'S GUIDE TO HUMAN LANGUAGE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "HS3015",
+   "Course Title": "DEVELOPMENT & SOCIAL CHANGE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MA2002",
+   "Course Title": "THEORY OF MECHANISM",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MA4705",
+   "Course Title": "AIRCRAFT NAVIGATION & FLIGHT COMPUTERS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MH4311",
+   "Course Title": "CRYPTOGRAPHY",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MH4513",
+   "Course Title": "SURVIVAL ANALYSIS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MS1013",
+   "Course Title": "MATERIALS CHEMISTRY I",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MS4620",
+   "Course Title": "POLYMER TECHNOLOGY",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "MT4001",
+   "Course Title": "SHIPPING LOGISTICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "PH2104",
+   "Course Title": "ANALYTICAL MECHANICS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "SS2102",
+   "Course Title": "INTRODUCTION TO SPORT BIOMECHANICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "9.00 am",
+   "Course": "SS3211",
+   "Course Title": "EXPERIMENTAL BIOMECHANICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BG1103",
+   "Course Title": "CHEMISTRY FOR ENGINEERS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BR2202",
+   "Course Title": "INSURANCE LAW & REGULATIONS",
+   "Duration": 3
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "BS3024",
+   "Course Title": "EVOLUTION IN HEALTH & DISEASE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CM1021",
+   "Course Title": "BASIC INORGANIC CHEMISTRY WITH LABORATORY",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CV2011",
+   "Course Title": "STRUCTURAL ANALYSIS I",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "CZ3003",
+   "Course Title": "SOFTWARE SYSTEMS ANALYSIS & DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE3015",
+   "Course Title": "POWER SYSTEMS & CONVERSION",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "EE4483",
+   "Course Title": "ARTIFICIAL INTELLIGENCE & DATA MINING",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HE2010",
+   "Course Title": "DEVELOPMENT ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HE3013",
+   "Course Title": "URBAN ECONOMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "HT9101",
+   "Course Title": "TRANSLATION: HISTORY, THEORIES & PRINCIPLES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "IM4483",
+   "Course Title": "ARTIFICIAL INTELLIGENCE & DATA MINING",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MA1002",
+   "Course Title": "FUNDAMENTAL ENGINEERING MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MA3004",
+   "Course Title": "MATHEMATICAL METHODS IN ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MH1812",
+   "Course Title": "DISCRETE MATHEMATICS",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MH4700",
+   "Course Title": "NUMERICAL ANALYSIS II",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "MS3012",
+   "Course Title": "MICRO/NANOELECTRONIC MATERIALS PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "PH4501",
+   "Course Title": "STATISTICAL MECHANICS II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "4 December 2019",
+   "Day": "Wednesday",
+   "Time": "1.00 pm",
+   "Course": "PH4604",
+   "Course Title": "TOPICS IN APPLIED PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BF2206",
+   "Course Title": "WEALTH MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BM2506",
+   "Course Title": "DIGITAL MARKETING:CONNECTING WITH CUSTOMERS IN TODAY'S WORLD",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BR3207",
+   "Course Title": "CYBER RISK MANAGEMENT & INSURANCE",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "BS0001",
+   "Course Title": "BIOLOGY & SOCIETY",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CE4031",
+   "Course Title": "DATABASE SYSTEM PRINCIPLES",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CE4056",
+   "Course Title": "CYBER PHYSICAL SYSTEMS DESIGN",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CH3103",
+   "Course Title": "CHEMICAL THERMODYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CH4306",
+   "Course Title": "BIOANALYTICAL TECHNIQUES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CM3031",
+   "Course Title": "ORGANIC REACTION MECHANISMS & SYNTHESIS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "CZ4031",
+   "Course Title": "DATABASE SYSTEM PRINCIPLES",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE3013",
+   "Course Title": "SEMICONDUCTOR DEVICES & PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE4266",
+   "Course Title": "COMPUTER VISION",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "EE4761",
+   "Course Title": "COMPUTER NETWORKING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HA4006",
+   "Course Title": "SPECIAL TOPIC IN PUBLIC ADMINISTRATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HC3042",
+   "Course Title": "CHINA IN ASIA",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "HE2007",
+   "Course Title": "MONEY & BANKING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "IM4761",
+   "Course Title": "COMPUTER NETWORKING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MA3002",
+   "Course Title": "SOLID MECHANICS & VIBRATION",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MA4881",
+   "Course Title": "AIR TRAFFIC MANAGEMENT",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MH2500",
+   "Course Title": "PROBABILITY & INTRODUCTION TO STATISTICS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MH3100",
+   "Course Title": "REAL ANALYSIS I",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MH4701",
+   "Course Title": "MATHEMATICAL PROGRAMMING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MS2018",
+   "Course Title": "ELECTRONICS & MAGNETIC PROPERTIES OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MS4640",
+   "Course Title": "ADVANCED ANALYSIS OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "MT4104",
+   "Course Title": "INFORMATION TECHNOLOGY MANAGEMENT",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "PH4507",
+   "Course Title": "TOPICS IN PHYSICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "RE1014",
+   "Course Title": "ELECTRONIC & INFORMATION ENGINEERING",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "9.00 am",
+   "Course": "SS3620",
+   "Course Title": "SPORT IN SOCIETY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BF3203",
+   "Course Title": "EQUITY SECURITIES",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BS2015",
+   "Course Title": "VIROLOGY",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "BS4017",
+   "Course Title": "HIGH-THROUGHPUT BIOINFORMATICS",
+   "Duration": 3
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CE3006",
+   "Course Title": "DIGITAL COMMUNICATIONS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "CH9203",
+   "Course Title": "FOOD PROCESS ENGINEERING",
+   "Duration": 3
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE2010",
+   "Course Title": "SIGNALS & SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "EE4475",
+   "Course Title": "AUDIO SIGNAL PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "IM2004",
+   "Course Title": "SIGNALS & SYSTEMS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "IM4475",
+   "Course Title": "AUDIO SIGNAL PROCESSING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MA1001",
+   "Course Title": "DYNAMICS",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MA4702",
+   "Course Title": "AIRCRAFT STRUCTURES II",
+   "Duration": 2.5
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MA9004",
+   "Course Title": "SYSTEMS THINKING & SYSTEMS ENGINEERING",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MH1100",
+   "Course Title": "CALCULUS I",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MH2814",
+   "Course Title": "PROBABILITY & STATISTICS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MS1016",
+   "Course Title": "THERMODYNAMICS OF MATERIALS",
+   "Duration": 2
+ },
+ {
+   "Date": "5 December 2019",
+   "Day": "Thursday",
+   "Time": "1.00 pm",
+   "Course": "MS4631",
+   "Course Title": "CORROSION ENGINEERING",
+   "Duration": 2
+ }
+]

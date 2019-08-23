@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="NTUTimetable_v1._0.Addcourse"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NTUTimetable_v1._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer>
+        <Grid Padding="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            
+            </Grid.RowDefinitions>
+
+            <TextBlock  Grid.Row="0" Text="Method 1: Add courses by entering index:" FontSize="20" FontWeight="Normal" />
+            <StackPanel Margin="0,20,0,0" Grid.Row ="1" Orientation="Horizontal">
+                <TextBox x:ConnectionId='5' x:Name="coourseIndexBox" Width="400" Header ="Format: COURSE/INDEX   ps: Do not enter online courses" PlaceholderText="CZ2007/10240"></TextBox>
+                <Button x:ConnectionId='6' Width="50" Height="60" Content="Add" Margin="20,0,0,0"                             ></Button>
+            </StackPanel>
+
+            <StackPanel x:ConnectionId='2' x:Name="courseListStackPanel"></StackPanel>
+
+
+            <Button Grid.Row="3"  Content="Generate Timetable" Margin="0,20,0,0" ></Button>
+            <TextBlock  Grid.Row="4" Text="Method 2: Add courses in by Accessing STARS:" FontSize="20" FontWeight="Normal" Padding="0,20,0,20"/>
+            <StackPanel Grid.Row="5" Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                
+                    <Image Source="ms-appx:///Assets/Step1.png" Height="350" Width="350" />
+                    <TextBlock FontSize="15" TextWrapping="Wrap" Width="300" HorizontalTextAlignment="Center">
+                        <Span>Use Google Chrome and go to <Hyperlink NavigateUri="https://sso.wis.ntu.edu.sg/webexe88/ntlm/sso_express.asp?app=https://wish.wis.ntu.edu.sg/pls/webexe/aus_stars_planner.main">STARS Planner</Hyperlink> and click for registered course.</Span>
+                    </TextBlock>
+                
+                </StackPanel>
+                <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="20" Text="&#xE72A;" VerticalAlignment="Center" Margin="20"/>
+                <StackPanel Orientation="Vertical">
+
+                    <Image Source="ms-appx:///Assets/Step2.png" Height="350" Width="350" />
+                    <TextBlock FontSize="15" TextWrapping="Wrap" Width="300" HorizontalTextAlignment="Center">
+                        1. Click "Ctrl+A" to select all content <LineBreak/>
+                        2. Copy and paste to the textbox below!
+                    </TextBlock>
+
+                </StackPanel>
+            </StackPanel>
+
+            <TextBox x:ConnectionId='3' Name="mycourseinfotextbox" Grid.Row="6" Height="500" HorizontalAlignment="Stretch" Margin="0, 20, 0, 20" AcceptsReturn="True" />
+            <StackPanel Orientation="Horizontal" Grid.Row="7">
+                <Button x:ConnectionId='4' Name="SubmitButton"  Margin="20,0,0,20" Content="Generate Timetable"                                 />
+                
+
+            </StackPanel>
+            
+
+
+
+
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+

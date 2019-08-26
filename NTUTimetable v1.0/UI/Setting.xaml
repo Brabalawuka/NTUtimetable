@@ -12,6 +12,11 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="70"/>
             <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" Padding="20,0,0,0">
             <TextBlock Text="Reset Timetable" VerticalAlignment="Center" Width="200"/>
@@ -26,6 +31,11 @@
                 </Button.Flyout>
             </Button>
         </StackPanel>
+
+        <TextBlock Grid.Row="1" Margin="20" FontWeight="Bold">This app uses following open source packages:</TextBlock>
+        <TextBlock Grid.Row="2" Margin="20,0,0,0">Newtonsoft.Json : MIT License ------  WebPage: https://github.com/JamesNK/Newtonsoft.Json</TextBlock>
+        <TextBlock Grid.Row="3" Margin="20,0,0,0">AngleSharp : MIT License ------  WebPage: https://github.com/AngleSharp/AngleSharp</TextBlock>
+       
 
     </Grid>
 </Page>

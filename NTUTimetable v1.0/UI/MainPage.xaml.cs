@@ -42,7 +42,7 @@ namespace NTUTimetable_v1._0
             ContentDialogResult result = await dialog.ShowAsync();
             if (result == ContentDialogResult.Primary)
             {
-                var emailUri = new Uri("mailto:[lyuz0001@e.ntu.edu.sg]");
+                var emailUri = new Uri("mailto:lyuz0001@e.ntu.edu.sg");
                 await Windows.System.Launcher.LaunchUriAsync(emailUri);
 
             }

@@ -91,6 +91,7 @@ namespace NTUTimetable_v1._0
                     PrimaryButtonText = "Complain",
 
                 };
+                ContentDialogResult result = await dialog.ShowAsync();
             }
             else {
 
@@ -122,14 +123,15 @@ namespace NTUTimetable_v1._0
                     foreach (var item in top10)
                     {
                         string indexcombi = "Index Combi: " + string.Join(", ", item.indexCombi.Select(p => $"{p.courseName}: {p.name}"));
-                        indexcombi = indexcombi + "Conflict Hours: " + item.conflict.ToString();
+                        indexcombi = indexcombi + " Conflict Hours: " + item.conflict.ToString();
                         generatedCombination.Children.Add(new TextBlock { Text = indexcombi, TextWrapping = TextWrapping.WrapWholeWords });
 
                     }
 
                 }
                 else if (allcombination.Count == 0) {
-                    TextBlock textBlock = new TextBlock { Text = "Sorry, there is no possible way of arranging these courses without conflict" };
+                    
+                    generatedCombination.Children.Add(new TextBlock { Text = "Sorry, there is no possible way of arranging these courses without conflict" });
                 }
                 else
                 {
@@ -137,7 +139,7 @@ namespace NTUTimetable_v1._0
                     foreach (var item in allcombination)
                     {
                         string indexcombi = "Index Combi: " + string.Join(", ", item.indexCombi.Select(p => $"{p.courseName}: {p.name}"));
-                        indexcombi = indexcombi + "Conflict Hours: " + item.conflict.ToString();
+                        indexcombi = indexcombi + " Conflict Hours: " + item.conflict.ToString();
                         generatedCombination.Children.Add(new TextBlock { Text = indexcombi, TextWrapping = TextWrapping.WrapWholeWords });
 
                     }

@@ -268,7 +268,7 @@ namespace NTUTimetable_v1._0
 
 
                     WebRequest webRequest = new WebRequest(coursecode);
-                    CourseInfo courseinfo = await webRequest.startTimetableParsingAsync(courseNameplusIndex[0], courseNameplusIndex[1]);
+                    CourseInfo courseinfo = await webRequest.startTimetableParsingAsync(courseNameplusIndex[0].ToUpper(), courseNameplusIndex[1].ToUpper());
                     var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == courseinfo.CourseCode.ToUpper()));
                     if (matchedexam != null)
                     {
@@ -277,6 +277,7 @@ namespace NTUTimetable_v1._0
                     mycourseinfolist.Add(courseinfo);
 
                     ring.Visibility = Visibility.Collapsed;
+                    clearButton.IsEnabled = true;
 
                 }
                     
@@ -291,7 +292,7 @@ namespace NTUTimetable_v1._0
             {
                 string courseListString = string.Join(", ", this.coursecode.ToArray());
                 string courseIndexString = string.Join(", ", this.courseindex.ToArray());
-                enteredCoursecode.Text = "Entered Code: " + courseListString + "Entered Index: " + courseIndexString; //Display course code
+                enteredCoursecode.Text = "Entered Code: " + courseListString + "  Entered Index: " + courseIndexString; //Display course code
             }
             else
             {
@@ -303,8 +304,35 @@ namespace NTUTimetable_v1._0
 
         private void ClearCourse(object sender, RoutedEventArgs e)
         {
-            courseName.Clear();
-            displayCourseEntered();
+            coursecode.Clear();
+            courseindex.Clear();
+            mycourseinfolist.Clear();
+            displayCourseEntered(true);
+        }
+
+        private async void generateTimetable(object sender, RoutedEventArgs e)
+        {
+            if (mycourseinfolist.Count == 0) {
+                return;
+            }
+
+            StorageFile storagefile = await ApplicationData.Current.LocalFolder.GetFileAsync("mycourse.json");
+
+            foreach (var item in mycourseinfolist)
+            {
+                JObject mycourse = (JObject)JToken.FromObject(item);
+                mycourseinfoarray.Add(mycourse);
+            }
+
+            string aaa = mycourseinfoarray.ToString();
+            mycourseinfotextbox.Text = "SUCCESS";
+            await FileIO.WriteTextAsync(storagefile, aaa);
+
+            ContentDialog mydialog2 = new ContentDialog();
+            mydialog2.Title = "Parsing Successful!";
+            mydialog2.Content = "Go back to calendar view and check ur timetable for current week";
+            mydialog2.CloseButtonText = "OK";
+            await mydialog2.ShowAsync();
         }
     }
 }

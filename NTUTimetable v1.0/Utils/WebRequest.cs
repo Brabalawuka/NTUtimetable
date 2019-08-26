@@ -58,11 +58,12 @@ namespace NTUTimetable_v1._0
             bool matchedindex = false; //block selection
 
             //New course 
+            
             CourseInfo newCourse = new CourseInfo(courseName);
             newCourse.CourseIndex = indexName;
             newCourse.CourseCode = courseName;
             JArray myclassinfoarray = new JArray();
-
+            Debug.WriteLine(newCourse.CourseCode + newCourse.CourseIndex);
             //WebRequest Config
             var config = Configuration.Default.WithDefaultLoader();
             var context = BrowsingContext.New(config);
@@ -73,13 +74,17 @@ namespace NTUTimetable_v1._0
             foreach (var block in cells)
             {
                 String blkinfo = block.TextContent;
+                Debug.WriteLine(blkinfo);
                 var lineInfo = blkinfo.Split("\n");
                 if (lineInfo[1].ToUpper() == indexName)
                 {
+                    Debug.WriteLine("Find you");
                     matchedindex = true;
                     ClassInfo classInfo = new ClassInfo();
                     classInfo.ClassType = lineInfo[2];
+                    Debug.WriteLine(classInfo.ClassType);
                     classInfo.group = lineInfo[3];
+                    Debug.WriteLine(classInfo.group);
                     classInfo.Col_day = CourseUtils.FindCol_day(lineInfo[4]);
                     var rowinfo = lineInfo[5].Split("-");
                     classInfo.Row_Time = CourseUtils.FindRow_Time(rowinfo[0]);
@@ -91,9 +96,16 @@ namespace NTUTimetable_v1._0
 
                 }
                 else if (lineInfo[1].Length != 0 && matchedindex)
+                {
+                    Debug.WriteLine("Other Course");
+                    newCourse.ClassArray = myclassinfoarray;
                     return newCourse;
+                }
+                    
 
                 else if (lineInfo[1].Length == 0 && matchedindex) {
+
+                    Debug.WriteLine("Same Course ");
 
                     ClassInfo classInfo = new ClassInfo();
                     classInfo.ClassType = lineInfo[2];
@@ -110,6 +122,9 @@ namespace NTUTimetable_v1._0
                 }
 
             }
+            newCourse.ClassArray = myclassinfoarray;
+            Debug.WriteLine(myclassinfoarray.Count());
+            return newCourse;
 
         }
 

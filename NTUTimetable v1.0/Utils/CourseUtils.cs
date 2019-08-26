@@ -226,6 +226,8 @@ namespace NTUTimetable_v1._0
                     combinationTemp.conflict = a;
                     combinationListTemp.Add(combinationTemp);
                 }
+                if (combinationListTemp.Count >= 50)
+                    break;
                 
 
             }

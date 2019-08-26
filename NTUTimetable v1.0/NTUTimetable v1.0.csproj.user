@@ -9,8 +9,8 @@
     <LargeTileSource>C:\Users\lvziz\Desktop\timetable.png</LargeTileSource>
     <AppxPackageIsForStore>True</AppxPackageIsForStore>
     <AppxShowAllApps>False</AppxShowAllApps>
-    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
-    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
     <PackageLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</PackageLogoSource>
     <BadgeLogoSource>C:\Users\lvziz\Desktop\未标题-1.png</BadgeLogoSource>
     <UapAppxPackageBuildMode>StoreOnly</UapAppxPackageBuildMode>

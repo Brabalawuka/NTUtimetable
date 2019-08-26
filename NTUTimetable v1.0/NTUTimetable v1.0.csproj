@@ -113,6 +113,9 @@
     <Compile Include="UI\CalendarView.xaml.cs">
       <DependentUpon>CalendarView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\FindCombi.xaml.cs">
+      <DependentUpon>FindCombi.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Utils\ClassInfo.cs" />
     <Compile Include="Utils\CurrentWeek.cs" />
     <Compile Include="Utils\CourseUtils.cs" />
@@ -126,6 +129,7 @@
     <Compile Include="UI\Setting.xaml.cs">
       <DependentUpon>Setting.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Utils\WebRequest.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -141,7 +145,7 @@
     <Content Include="Assets\LargeTile.scale-150.png" />
     <Content Include="Assets\LargeTile.scale-200.png" />
     <Content Include="Assets\LargeTile.scale-400.png" />
-    <None Include="Assets\examinfo.json" />
+    <Content Include="Assets\examinfo.json" />
     <None Include="NTUTimetable v1.0_StoreKey.pfx" />
     <None Include="NTUTimetable v1.0_TemporaryKey.pfx" />
   </ItemGroup>
@@ -209,6 +213,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="UI\FindCombi.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="UI\ListView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -223,11 +231,14 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="AngleSharp">
+      <Version>0.12.1</Version>
+    </PackageReference>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
-      <Version>6.1.5</Version>
+      <Version>6.2.9</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>11.0.2</Version>
+      <Version>12.0.2</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

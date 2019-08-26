@@ -1,1 +1,0 @@
-D:\Repo\NTUtimetable\NTUTimetable v1.0\NTUTimetable v1.0.csproj;x86

@@ -56,6 +56,17 @@
                     </NavigationViewItem.Icon>
                 </NavigationViewItem>
 
+
+                <NavigationViewItemHeader Content="Utils" />
+
+                <NavigationViewItem Content="Find Combination"
+                                    Tag="FindCombi">
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets"
+                          Glyph="&#xF168;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+
             </NavigationView.MenuItems>
 
             <NavigationView.PaneFooter>

@@ -10,7 +10,7 @@ namespace NTUTimetable_v1._0
     public class ClassInfo
     {
 
-        public string CourseType { get; set; }
+        public string ClassType { get; set; }
         public string Venue { get; set; }
         public string group { get; set; }
         public List<int> WeekSpan { get; set; }
@@ -21,11 +21,19 @@ namespace NTUTimetable_v1._0
 
     public class CourseInfo
     {
+        public List<CourseIndex> allIndex { get; set; }
         public string CourseCode;
         public string CourseIndex;
         public string ExamInfo;
 
         public JArray ClassArray { get; set; }
+
+        public CourseInfo(string name)
+        {
+            this.CourseCode = name;
+            allIndex = new List<CourseIndex>();
+        }
+        public CourseInfo() { }
     }
 
 
@@ -37,4 +45,27 @@ namespace NTUTimetable_v1._0
         public string Time;
         public float Duration;
     }
+
+    public class CourseIndex
+    {
+        public string courseName;
+        public string name;
+        public List<int> WeekSpan;
+        public bool[,,] classes = new bool[14, 7, 14];
+        public CourseIndex(string name, string courseName)
+        {
+            this.name = name;
+            this.courseName = courseName;
+
+        }
+        public CourseIndex() { }
+
+    }
+
+    public struct Combination
+    {
+        public List<CourseIndex> indexCombi;
+        public int conflict;
+    }
+
 }

@@ -21,17 +21,22 @@
             
             </Grid.RowDefinitions>
 
-            <TextBlock  Grid.Row="0" Text="Method 1: Add courses by entering index:" FontSize="20" FontWeight="Normal" />
-            <StackPanel Margin="0,20,0,0" Grid.Row ="1" Orientation="Horizontal">
-                <TextBox x:Name="coourseIndexBox" Width="400" Header ="Format: COURSE/INDEX   ps: Do not enter online courses" PlaceholderText="CZ2007/10240"></TextBox>
-                <Button Width="50" Height="60" Content="Add" Margin="20,0,0,0" Click="addCOurseButtonClick"></Button>
+            <TextBlock  Grid.Row="0" Text="Method 1 (Slower): Add courses by searching index:" FontSize="20" FontWeight="Normal" />
+            <StackPanel Name = "addingcoursepenal" Margin="0,20,0,0" Grid.Row ="1" Orientation="Horizontal">
+                <TextBox x:Name="courseIndexBox" Width="400" Header ="Format: COURSE/INDEX   ps: Do not enter online courses" PlaceholderText="CZ2007/10240"></TextBox>
+                <Button Width="50" Height="55" Content="Add" Margin="20,0,0,0" Click="addCOurseButtonClick" VerticalAlignment="Center"></Button>
             </StackPanel>
 
-            <StackPanel x:Name="courseListStackPanel"></StackPanel>
+            <StackPanel Margin="0,20,0,0" Grid.Row="2" x:Name="courseListStackPanel">
+                <TextBlock  Name="enteredCoursecode">Entered Course:</TextBlock>
+                <Button Name="clearButton" Content="Clear" Margin="0,10,0,0" Click="ClearCourse"></Button>
+            </StackPanel>
+
+            
 
 
             <Button Grid.Row="3"  Content="Generate Timetable" Margin="0,20,0,0" ></Button>
-            <TextBlock  Grid.Row="4" Text="Method 2: Add courses in by Accessing STARS:" FontSize="20" FontWeight="Normal" Padding="0,20,0,20"/>
+            <TextBlock  Grid.Row="4" Text="Method 2 (Faster): Add courses in by Accessing STARS:" FontSize="20" FontWeight="Normal" Padding="0,20,0,20"/>
             <StackPanel Grid.Row="5" Orientation="Horizontal">
                 <StackPanel Orientation="Vertical">
                 

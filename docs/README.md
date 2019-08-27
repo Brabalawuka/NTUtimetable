@@ -8,18 +8,20 @@ We already have a lot of stressful courses why not make the timetable look nicer
 
 ## Feature:
 
-* Automatically parse ur courses and form timetable!  
+
+* **Automatically** parse your courses and form timetable!  
+* Fast launch, low memory comsupmtion and no background process   
 * Fluent Desgin Language  
 * Virbrant Colors  
-* Display only the course u have in **CURRENT WEEK** 
-* Find the best non clash combination of multiple courses for you to choose
+* Display only the course you have in **CURRENT WEEK** 
+* Find the best non clash combination of the courses you choose
 
 
 ## PRIVACY:
  
 
 <a href="privacy.html">Privacy Policy</a>   
-The app only connects the internet for paring the courseinfo, it is a **UWP app** thus is cleaner and saher than an **.exe app**
+The app only connects the internet when parsing the courses info. It is a light weight **UWP app** which is much cleaner and safer than an **.exe app**
 
 ## INSTALLATION:
 

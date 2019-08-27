@@ -1,7 +1,5 @@
 # NTU TimeTable UWP App
 
-<a href='//www.microsoft.com/store/apps/9P98CRS9Z1BJ?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
-
 As the STARS Planner and STARS is way too **ugly** for me. I designed this good looking timetable display app just for a pleasant viewing experience
 
 <img src="Image/FileV2.png" alt="drawing" width="400" />
@@ -26,7 +24,7 @@ The app only connects the internet for paring the courseinfo, it is a **UWP app*
 
 ## INSTALLATION:
 
-<a href='//www.microsoft.com/store/apps/9P98CRS9Z1BJ?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
+<a href='//www.microsoft.com/store/apps/9P98CRS9Z1BJ?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='drawing' width = "284" height = "104"/></a>
  
 Minimum System Requirements:  
 **Windows 10 Version 1803 (10.0; Build 10.0.17134.0)**

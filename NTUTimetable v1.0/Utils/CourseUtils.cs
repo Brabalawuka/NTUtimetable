@@ -15,7 +15,7 @@ namespace NTUTimetable_v1._0
         
 
         
-        public static int FindCol_day(string myday)
+        public static int findColDay(string myday)
         {
             switch (myday)
             {
@@ -38,7 +38,7 @@ namespace NTUTimetable_v1._0
             }
         }
 
-        public static List<int> FindWeekSpan(string weekspanremark)
+        public static List<int> findWeekSpan(string weekspanremark)
         {
 
             if (weekspanremark == "")
@@ -75,7 +75,7 @@ namespace NTUTimetable_v1._0
                 return myweekspanlist;
             }
         }
-        public static int FindRow_Time(string mystarttime)
+        public static int findRowTime(string mystarttime)
         {
             int starttime = int.Parse(mystarttime);
             if (starttime % 100 == 0)
@@ -88,10 +88,10 @@ namespace NTUTimetable_v1._0
             }
         }
 
-        public static int FindRowSpan_Duration(string mystarttime, string myendtime)
+        public static int findRowSpanDuration(string mystarttime, string myendtime)
         {
-            int endrow = FindRow_Time(myendtime);
-            int startrow = FindRow_Time(mystarttime);
+            int endrow = findRowTime(myendtime);
+            int startrow = findRowTime(mystarttime);
             return endrow - startrow;
 
         }

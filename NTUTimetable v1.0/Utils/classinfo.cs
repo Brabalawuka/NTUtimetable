@@ -10,27 +10,27 @@ namespace NTUTimetable_v1._0
     public class ClassInfo
     {
 
-        public string ClassType { get; set; }
-        public string Venue { get; set; }
+        public string classType { get; set; }
+        public string venue { get; set; }
         public string group { get; set; }
-        public List<int> WeekSpan { get; set; }
-        public int Row_Time { get; set; }
-        public int Col_day { get; set; }
-        public int RowSpan_Duration { get; set; }
+        public List<int> weekSpan { get; set; }
+        public int rowTime { get; set; }
+        public int colDay { get; set; }
+        public int rowSpanDuration { get; set; }
     }
 
     public class CourseInfo
     {
         public List<CourseIndex> allIndex { get; set; }
-        public string CourseCode;
-        public string CourseIndex;
+        public string courseCode;
+        public string courseIndex;
         public string ExamInfo;
 
         public JArray ClassArray { get; set; }
 
         public CourseInfo(string name)
         {
-            this.CourseCode = name;
+            this.courseCode = name;
             allIndex = new List<CourseIndex>();
         }
         public CourseInfo() { }

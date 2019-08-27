@@ -30,14 +30,17 @@ namespace NTUTimetable_v1._0
     
 
     
-    public sealed partial class Addcourse : Page
+    public sealed partial class AddCourse : Page
     {
-        List<string> coursecode = new List<string>();
-        List<string> courseindex = new List<string>();
-        StorageFile examfile;
+        public static string EXAM_INFO_URI = "ms-appx:///Assets/examinfo.json";
+        public static string MYCOURSE_INFO = "mycourse.json";
+
+        List<string> courseCode = new List<string>();
+        List<string> courseIndex = new List<string>();
+        StorageFile examFile;
         List<ExamInfo> examInfoList = new List<ExamInfo>();
-        List<CourseInfo> mycourseinfolist = new List<CourseInfo>();
-        JArray mycourseinfoarray = new JArray();
+        List<CourseInfo> myCourseInfoList = new List<CourseInfo>();
+        JArray myCourseInfoArray = new JArray();
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             base.OnNavigatedTo(e);
@@ -47,7 +50,7 @@ namespace NTUTimetable_v1._0
 
 
         
-        public Addcourse()
+        public AddCourse()
         {
             this.InitializeComponent();
 
@@ -59,7 +62,7 @@ namespace NTUTimetable_v1._0
             //Debug.WriteLine("Read exam file");
             try
             {
-                examfile = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/examinfo.json"));
+                examFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri(EXAM_INFO_URI));
             }
             catch (Exception ex)
             {
@@ -68,10 +71,10 @@ namespace NTUTimetable_v1._0
             }
             
             
-            string exams = await FileIO.ReadTextAsync(examfile);
-            JArray examsarray = JArray.Parse(exams);
+            string exams = await FileIO.ReadTextAsync(examFile);
+            JArray examsArray = JArray.Parse(exams);
             //Debug.WriteLine("Read exam file");
-            foreach (var item in examsarray)
+            foreach (var item in examsArray)
             {
                 examInfoList.Add(item.ToObject<ExamInfo>());
                // Debug.WriteLine(item.ToObject<ExamInfo>().Course);
@@ -81,14 +84,14 @@ namespace NTUTimetable_v1._0
 
         
 
-        private async void SubmitButton_ClickAsync(object sender, RoutedEventArgs e)
+        private async void generateTimetablebyCopyPaste(object sender, RoutedEventArgs e)
         {
 
 
 
             //open the current coursefile
             
-            StorageFile storagefile =await ApplicationData.Current.LocalFolder.GetFileAsync("mycourse.json");
+            StorageFile myCourseJsonFile =await ApplicationData.Current.LocalFolder.GetFileAsync(MYCOURSE_INFO);
             
 
 
@@ -96,24 +99,22 @@ namespace NTUTimetable_v1._0
             //var mycoursescurrent = JsonConvert.DeserializeObject<List<Course_info>>(content);
             //JArray mycourseinfoarray = new JArray();
 
-            if (string.IsNullOrWhiteSpace(mycourseinfotextbox.Text) || mycourseinfotextbox.Text[0] != 'S')
+            if (string.IsNullOrWhiteSpace(myCourseInfoTextBox.Text) || myCourseInfoTextBox.Text[0] != 'S')
             {
-                ContentDialog mydialog = new ContentDialog();
-                mydialog.Title = "Parsing Failed!";
-                mydialog.Content = "Please ensure you have followed the instruction and do not edit the pasted content!";
-                mydialog.CloseButtonText = "Try Again";
-                await mydialog.ShowAsync();
-                
+                generateDialog(
+                        "Parsing Failed!",
+                        "Please ensure you have followed the instruction and do not edit the pasted content!",
+                        "Try Again");
             }
 
             else
             {
                 try
                 {
-                    string mycourseinfostring = mycourseinfotextbox.Text;
-                    mycourseinfostring.Trim();
+                    string myCourseInfoString = myCourseInfoTextBox.Text;
+                    myCourseInfoString.Trim();
 
-                    var rawLines = mycourseinfostring.Split("\r");
+                    var rawLines = myCourseInfoString.Split("\r");
                     var effectiveLines = new List<string>();
 
                     Exception exception = new Exception();
@@ -138,58 +139,58 @@ namespace NTUTimetable_v1._0
                         if (temp.Length == 15)
                         {
                             //New course
-                            CourseInfo mycourseinfo = new CourseInfo();
-                            JArray myclassinfoarray = new JArray();
-                            mycourseinfo.CourseCode = temp[0];
-                            mycourseinfo.CourseIndex = temp[6];
+                            CourseInfo myCourseInfo = new CourseInfo();
+                            JArray myClassInfoArray = new JArray();
+                            myCourseInfo.courseCode = temp[0];
+                            myCourseInfo.courseIndex = temp[6];
 
                             //Add class info in the course info line
-                            ClassInfo myclassinfo = new ClassInfo();
-                            myclassinfo.ClassType = temp[9];
-                            myclassinfo.group = temp[10];
-                            myclassinfo.Venue = temp[13];
-                            myclassinfo.WeekSpan = CourseUtils.FindWeekSpan(temp[14]);
+                            ClassInfo myClassInfo = new ClassInfo();
+                            myClassInfo.classType = temp[9];
+                            myClassInfo.group = temp[10];
+                            myClassInfo.venue = temp[13];
+                            myClassInfo.weekSpan = CourseUtils.findWeekSpan(temp[14]);
                             var temp2 = temp[12].Split("-");
-                            myclassinfo.Row_Time = CourseUtils.FindRow_Time(temp2[0]);
-                            myclassinfo.RowSpan_Duration = CourseUtils.FindRowSpan_Duration(temp2[0], temp2[1]);
-                            myclassinfo.Col_day = CourseUtils.FindCol_day(temp[11]);
-                            JObject myobject = (JObject)JToken.FromObject(myclassinfo);
-                            myclassinfoarray.Add(myobject);
+                            myClassInfo.rowTime = CourseUtils.findRowTime(temp2[0]);
+                            myClassInfo.rowSpanDuration = CourseUtils.findRowSpanDuration(temp2[0], temp2[1]);
+                            myClassInfo.colDay = CourseUtils.findColDay(temp[11]);
+                            JObject myClassInfoObject = (JObject)JToken.FromObject(myClassInfo);
+                            myClassInfoArray.Add(myClassInfoObject);
 
                             //Add Class Info in other lines
 
                             for (int k = i + 1; k < effectiveLines.Count; k++)
                             {
-                                var temp3 = effectiveLines[k].Split("\t");
-                                if (temp3.Length == 6)
+                                var otherClassInfoStringArray = effectiveLines[k].Split("\t");
+                                if (otherClassInfoStringArray.Length == 6)
                                 {
-                                    ClassInfo myclassinfo2 = new ClassInfo();
+                                    ClassInfo myClassInfo2 = new ClassInfo();
 
-                                    myclassinfo.ClassType = temp3[0];
-                                    myclassinfo.group = temp3[1];
-                                    myclassinfo.Venue = temp3[4];
-                                    myclassinfo.WeekSpan = CourseUtils.FindWeekSpan(temp3[5]);
-                                    var temp4 = temp3[3].Split("-");
-                                    myclassinfo.Row_Time = CourseUtils.FindRow_Time(temp4[0]);
-                                    myclassinfo.RowSpan_Duration = CourseUtils.FindRowSpan_Duration(temp4[0], temp4[1]);
-                                    myclassinfo.Col_day = CourseUtils.FindCol_day(temp3[2]);
-                                    JObject myobject2 = (JObject)JToken.FromObject(myclassinfo);
-                                    myclassinfoarray.Add(myobject2);
+                                    myClassInfo2.classType = otherClassInfoStringArray[0];
+                                    myClassInfo2.group = otherClassInfoStringArray[1];
+                                    myClassInfo2.venue = otherClassInfoStringArray[4];
+                                    myClassInfo2.weekSpan = CourseUtils.findWeekSpan(otherClassInfoStringArray[5]);
+                                    var temp4 = otherClassInfoStringArray[3].Split("-");
+                                    myClassInfo2.rowTime = CourseUtils.findRowTime(temp4[0]);
+                                    myClassInfo2.rowSpanDuration = CourseUtils.findRowSpanDuration(temp4[0], temp4[1]);
+                                    myClassInfo2.colDay = CourseUtils.findColDay(otherClassInfoStringArray[2]);
+                                    JObject myClassInfoObject2 = (JObject)JToken.FromObject(myClassInfo2);
+                                    myClassInfoArray.Add(myClassInfoObject2);
                                 }
                                 else
                                     break;
                             }
 
-                            mycourseinfo.ClassArray = myclassinfoarray;
+                            myCourseInfo.ClassArray = myClassInfoArray;
 
                             //Add Exam Info 
 
-                            var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == mycourseinfo.CourseCode.ToUpper()));
+                            var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == myCourseInfo.courseCode.ToUpper()));
                             if (matchedexam != null) {
-                                mycourseinfo.ExamInfo = "FINAL EXAM: "+ matchedexam.Date + " " + matchedexam.Day + " " + matchedexam.Time + " " + matchedexam.Duration + "h";
+                                myCourseInfo.ExamInfo = "FINAL EXAM: "+ matchedexam.Date + " " + matchedexam.Day + " " + matchedexam.Time + " " + matchedexam.Duration + "h";
                             }
 
-                            mycourseinfolist.Add(mycourseinfo);
+                            myCourseInfoList.Add(myCourseInfo);
 
 
 
@@ -197,30 +198,31 @@ namespace NTUTimetable_v1._0
 
 
                     }
-
-                    foreach (var item in mycourseinfolist)
+                    //Form Json File
+                    foreach (var item in myCourseInfoList)
                     {
                         JObject mycourse = (JObject)JToken.FromObject(item);
-                        mycourseinfoarray.Add(mycourse);
+                        myCourseInfoArray.Add(mycourse);
                     }
 
-                    string aaa = mycourseinfoarray.ToString();
-                    mycourseinfotextbox.Text = "SUCCESS";
-                    await FileIO.WriteTextAsync(storagefile, aaa);
+                    string everythingString = myCourseInfoArray.ToString();
+                    myCourseInfoTextBox.Text = "SUCCESS";
+                    await FileIO.WriteTextAsync(myCourseJsonFile, everythingString);
 
-                    ContentDialog mydialog2 = new ContentDialog();
-                    mydialog2.Title = "Parsing Successful!";
-                    mydialog2.Content = "Go back to calendar view and check ur timetable for current week";
-                    mydialog2.CloseButtonText = "OK";
-                    await mydialog2.ShowAsync();
+
+                    generateDialog(
+                        "Parsing Successful!",
+                        "Go back to calendar view and check ur timetable for current week",
+                        "OK");
+
                 }
                 catch (FormatException)
                 {
-                    ContentDialog mydialog = new ContentDialog();
-                    mydialog.Title = "Parsing Failed!";
-                    mydialog.Content = "Please ensure you have followed the instruction and do not edit the pasted content!";
-                    mydialog.CloseButtonText = "Try Again";
-                    await mydialog.ShowAsync();
+                    generateDialog(
+                        "Parsing Failed!",
+                        "Please ensure you have followed the instruction and do not edit the pasted content!",
+                        "Try Again");
+
                 }
                 
 
@@ -228,12 +230,11 @@ namespace NTUTimetable_v1._0
 
             }
 
-
-
             
         }
 
-        private async void addCOurseButtonClick(object sender, RoutedEventArgs e)
+
+        private async void addCourseButtonClick(object sender, RoutedEventArgs e)
         {
 
 
@@ -247,36 +248,25 @@ namespace NTUTimetable_v1._0
                     return;
                     
                 }
-                if (!this.coursecode.Contains(courseNameplusIndex[0].ToUpper()) && !this.courseindex.Contains(courseNameplusIndex[1].ToUpper()))
+                if (!this.courseCode.Contains(courseNameplusIndex[0].ToUpper()) && !this.courseIndex.Contains(courseNameplusIndex[1].ToUpper()))
                 {
-                    this.coursecode.Add(courseNameplusIndex[0].ToUpper());
-                    this.courseindex.Add(courseNameplusIndex[1].ToUpper());
+                    this.courseCode.Add(courseNameplusIndex[0].ToUpper());
+                    this.courseIndex.Add(courseNameplusIndex[1].ToUpper());
                     displayCourseEntered(true);
                     clearButton.IsEnabled = false;
-
-                    ProgressRing ring = new ProgressRing
-                    {
-                        IsActive = true,
-                        Margin = new Thickness(10, 0, 0, 0),
-                        Height = 40,
-                        Width = 40,
-                        Visibility = Visibility.Visible,
-                        VerticalAlignment = VerticalAlignment.Center,
-                    };
-
-                    addingcoursepenal.Children.Add(ring);
+                    addCourseProgress.Visibility = Visibility.Visible;
 
 
-                    WebRequest webRequest = new WebRequest(coursecode);
+                    WebRequest webRequest = new WebRequest(courseCode);
                     CourseInfo courseinfo = await webRequest.startTimetableParsingAsync(courseNameplusIndex[0].ToUpper(), courseNameplusIndex[1].ToUpper());
-                    var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == courseinfo.CourseCode.ToUpper()));
+                    var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == courseinfo.courseCode.ToUpper()));
                     if (matchedexam != null)
                     {
                         courseinfo.ExamInfo = "FINAL EXAM: " + matchedexam.Date + " " + matchedexam.Day + " " + matchedexam.Time + " " + matchedexam.Duration + "h";
                     }
-                    mycourseinfolist.Add(courseinfo);
+                    myCourseInfoList.Add(courseinfo);
 
-                    ring.Visibility = Visibility.Collapsed;
+                    addCourseProgress.Visibility = Visibility.Collapsed;
                     clearButton.IsEnabled = true;
 
                 }
@@ -290,8 +280,8 @@ namespace NTUTimetable_v1._0
         {
             if (format)
             {
-                string courseListString = string.Join(", ", this.coursecode.ToArray());
-                string courseIndexString = string.Join(", ", this.courseindex.ToArray());
+                string courseListString = string.Join(", ", this.courseCode.ToArray());
+                string courseIndexString = string.Join(", ", this.courseIndex.ToArray());
                 enteredCoursecode.Text = "Entered Code: " + courseListString + "  Entered Index: " + courseIndexString; //Display course code
             }
             else
@@ -304,28 +294,28 @@ namespace NTUTimetable_v1._0
 
         private void ClearCourse(object sender, RoutedEventArgs e)
         {
-            coursecode.Clear();
-            courseindex.Clear();
-            mycourseinfolist.Clear();
+            courseCode.Clear();
+            courseIndex.Clear();
+            myCourseInfoList.Clear();
             displayCourseEntered(true);
         }
 
         private async void generateTimetable(object sender, RoutedEventArgs e)
         {
-            if (mycourseinfolist.Count == 0) {
+            if (myCourseInfoList.Count == 0) {
                 return;
             }
 
             StorageFile storagefile = await ApplicationData.Current.LocalFolder.GetFileAsync("mycourse.json");
 
-            foreach (var item in mycourseinfolist)
+            foreach (var item in myCourseInfoList)
             {
                 JObject mycourse = (JObject)JToken.FromObject(item);
-                mycourseinfoarray.Add(mycourse);
+                myCourseInfoArray.Add(mycourse);
             }
 
-            string aaa = mycourseinfoarray.ToString();
-            mycourseinfotextbox.Text = "SUCCESS";
+            string aaa = myCourseInfoArray.ToString();
+            myCourseInfoTextBox.Text = "SUCCESS";
             await FileIO.WriteTextAsync(storagefile, aaa);
 
             ContentDialog mydialog2 = new ContentDialog();
@@ -333,6 +323,17 @@ namespace NTUTimetable_v1._0
             mydialog2.Content = "Go back to calendar view and check ur timetable for current week";
             mydialog2.CloseButtonText = "OK";
             await mydialog2.ShowAsync();
+        }
+
+
+        private async void generateDialog(string title, string content, string closeButtonText) {
+
+            ContentDialog mydialog = new ContentDialog();
+            mydialog.Title = title;
+            mydialog.Content = content;
+            mydialog.CloseButtonText = closeButtonText;
+            await mydialog.ShowAsync();
+
         }
     }
 }

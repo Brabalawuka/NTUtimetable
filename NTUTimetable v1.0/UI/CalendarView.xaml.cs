@@ -85,13 +85,13 @@ namespace NTUTimetable_v1._0
                 foreach (var myclass in myclassarray)
                 {
                     ClassInfo myclassinfo = myclass.ToObject<ClassInfo>();
-                    if ( myclassinfo.WeekSpan.Contains(myweek.week))
+                    if ( myclassinfo.weekSpan.Contains(myweek.week))
                     {
                         //Debug.WriteLine("I am here2");
-                        Mycourse(mycourse.CourseIndex, mycourse.CourseCode, myclassinfo.group, myclassinfo.ClassType, myclassinfo.Venue, colornum.ToString(), myclassinfo.Row_Time, myclassinfo.Col_day, myclassinfo.RowSpan_Duration);
-                        int setopacitycount = myclassinfo.RowSpan_Duration;
-                        int setopacityrow = myclassinfo.Row_Time;
-                        int setopacitycol = myclassinfo.Col_day;
+                        Mycourse(mycourse.courseIndex, mycourse.courseCode, myclassinfo.group, myclassinfo.classType, myclassinfo.venue, colornum.ToString(), myclassinfo.rowTime, myclassinfo.colDay, myclassinfo.rowSpanDuration);
+                        int setopacitycount = myclassinfo.rowSpanDuration;
+                        int setopacityrow = myclassinfo.rowTime;
+                        int setopacitycol = myclassinfo.colDay;
                         while (setopacitycount > 0)
                         {
                             
@@ -193,7 +193,7 @@ namespace NTUTimetable_v1._0
             
 
             ToolTip toolTip = new ToolTip();
-            toolTip.Content = mycourseinfolist.FirstOrDefault(course => course.CourseCode == CourseID).ExamInfo;
+            toolTip.Content = mycourseinfolist.FirstOrDefault(course => course.courseCode == CourseID).ExamInfo;
             ToolTipService.SetToolTip(mybutton, toolTip);
 
 

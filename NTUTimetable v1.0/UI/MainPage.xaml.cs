@@ -86,7 +86,7 @@ namespace NTUTimetable_v1._0
                         MainPageFrame.Navigate(typeof(ListView));
                         break;
                     case "AddCourse":
-                        MainPageFrame.Navigate(typeof(Addcourse));
+                        MainPageFrame.Navigate(typeof(AddCourse));
                         break;
                     case "FindCombi":
                         MainPageFrame.Navigate(typeof(FindCombi));

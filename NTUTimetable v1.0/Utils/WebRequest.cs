@@ -60,10 +60,10 @@ namespace NTUTimetable_v1._0
             //New course 
             
             CourseInfo newCourse = new CourseInfo(courseName);
-            newCourse.CourseIndex = indexName;
-            newCourse.CourseCode = courseName;
+            newCourse.courseIndex = indexName;
+            newCourse.courseCode = courseName;
             JArray myclassinfoarray = new JArray();
-            Debug.WriteLine(newCourse.CourseCode + newCourse.CourseIndex);
+            Debug.WriteLine(newCourse.courseCode + newCourse.courseIndex);
             //WebRequest Config
             var config = Configuration.Default.WithDefaultLoader();
             var context = BrowsingContext.New(config);
@@ -81,16 +81,16 @@ namespace NTUTimetable_v1._0
                     Debug.WriteLine("Find you");
                     matchedindex = true;
                     ClassInfo classInfo = new ClassInfo();
-                    classInfo.ClassType = lineInfo[2];
-                    Debug.WriteLine(classInfo.ClassType);
+                    classInfo.classType = lineInfo[2];
+                    Debug.WriteLine(classInfo.classType);
                     classInfo.group = lineInfo[3];
                     Debug.WriteLine(classInfo.group);
-                    classInfo.Col_day = CourseUtils.FindCol_day(lineInfo[4]);
+                    classInfo.colDay = CourseUtils.findColDay(lineInfo[4]);
                     var rowinfo = lineInfo[5].Split("-");
-                    classInfo.Row_Time = CourseUtils.FindRow_Time(rowinfo[0]);
-                    classInfo.RowSpan_Duration = CourseUtils.FindRowSpan_Duration(rowinfo[0], rowinfo[1]);
-                    classInfo.Venue = lineInfo[6];
-                    classInfo.WeekSpan = CourseUtils.FindWeekSpan(lineInfo[7]);
+                    classInfo.rowTime = CourseUtils.findRowTime(rowinfo[0]);
+                    classInfo.rowSpanDuration = CourseUtils.findRowSpanDuration(rowinfo[0], rowinfo[1]);
+                    classInfo.venue = lineInfo[6];
+                    classInfo.weekSpan = CourseUtils.findWeekSpan(lineInfo[7]);
                     JObject myobject = (JObject)JToken.FromObject(classInfo);
                     myclassinfoarray.Add(myobject);
 
@@ -108,14 +108,14 @@ namespace NTUTimetable_v1._0
                     Debug.WriteLine("Same Course ");
 
                     ClassInfo classInfo = new ClassInfo();
-                    classInfo.ClassType = lineInfo[2];
+                    classInfo.classType = lineInfo[2];
                     classInfo.group = lineInfo[3];
-                    classInfo.Col_day = CourseUtils.FindCol_day(lineInfo[4]);
+                    classInfo.colDay = CourseUtils.findColDay(lineInfo[4]);
                     var rowinfo = lineInfo[5].Split("-");
-                    classInfo.Row_Time = CourseUtils.FindRow_Time(rowinfo[0]);
-                    classInfo.RowSpan_Duration = CourseUtils.FindRowSpan_Duration(rowinfo[0], rowinfo[1]);
-                    classInfo.Venue = lineInfo[6];
-                    classInfo.WeekSpan = CourseUtils.FindWeekSpan(lineInfo[7]);
+                    classInfo.rowTime = CourseUtils.findRowTime(rowinfo[0]);
+                    classInfo.rowSpanDuration = CourseUtils.findRowSpanDuration(rowinfo[0], rowinfo[1]);
+                    classInfo.venue = lineInfo[6];
+                    classInfo.weekSpan = CourseUtils.findWeekSpan(lineInfo[7]);
                     JObject myobject = (JObject)JToken.FromObject(classInfo);
                     myclassinfoarray.Add(myobject);
 
@@ -176,8 +176,8 @@ namespace NTUTimetable_v1._0
                 };
 
                 var timeStartEnd = lineInfo[5].Split('-');
-                List<int> WeekSpan = CourseUtils.FindWeekSpan(lineInfo[7]);
-                int day = CourseUtils.FindCol_day(lineInfo[4]);
+                List<int> WeekSpan = CourseUtils.findWeekSpan(lineInfo[7]);
+                int day = CourseUtils.findColDay(lineInfo[4]);
                 List<int> timeDuration = CourseUtils.findTimeDuration(timeStartEnd[0], timeStartEnd[1]);
 
                 foreach (var week in WeekSpan)

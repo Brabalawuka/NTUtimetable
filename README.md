@@ -15,6 +15,8 @@ Virbrant Colors
 Display only the course u have in **CURRENT WEEK** 
 Find the best non clash combination of multiple courses for you to choose
 
+Special Thanks to @NTUVIBE - A web version of NTUtimetable management app [NTUVibe](https://ntuvibe.com/)
+
 
 ## PRIVACY:
 

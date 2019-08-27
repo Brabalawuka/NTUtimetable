@@ -1,5 +1,5 @@
 
-As the STARS Planner and STARS are way too **ugly** for me. I designed this good looking timetable display app just for a pleasant viewing experience
+As the STARS Planner and STARS are way too **ugly** for me. I designed this good looking timetable app just for a pleasant viewing experience
 
 <img src="Image/FileV2.png" alt="drawing" width="400" />
 <img src="Image/FileV1.png" alt="drawing" width="400" />

@@ -13,11 +13,12 @@ Automatically parse ur courses and form timetable!
 Fluent Desgin Language  
 Virbrant Colors  
 Display only the course u have in **CURRENT WEEK** 
+Find the best non clash combination of multiple courses for you to choose
 
 
 ## PRIVACY:
 
-The app doesnot connect the Internet so no privacy issue, it is a offline **UWP app** thus is cleaner and saher than an **.exe app**
+The app only connects the internet for paring the courseinfo, it is a **UWP app** thus is cleaner and saher than an **.exe app**
 
 ## INSTALLATION:
 

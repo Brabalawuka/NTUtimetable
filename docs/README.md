@@ -17,8 +17,8 @@ We already have a lot of stressful courses why not make the timetable look nicer
 
 ## PRIVACY:
  
-[Privacy Policy](privacy.html)    
-<a href="privacy.html">Privacy Policy</a>
+
+<a href="privacy.html">Privacy Policy</a>   
 The app only connects the internet for paring the courseinfo, it is a **UWP app** thus is cleaner and saher than an **.exe app**
 
 ## INSTALLATION:

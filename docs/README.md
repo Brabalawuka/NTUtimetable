@@ -23,6 +23,8 @@ The app only connects the internet for paring the courseinfo, it is a **UWP app*
 
 ## INSTALLATION:
 
-[Download this release](https://github.com/Brabalawuka/NTUtimetable/releases/tag/V1.0) and unzip and follow instruction.    
+<a href='//www.microsoft.com/store/apps/9P98CRS9Z1BJ?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='drawing' width = "190" height = "70"/></a>
+ 
+
 Minimum System Requirements:  
 **Windows 10 Version 1803 (10.0; Build 10.0.17134.0)**

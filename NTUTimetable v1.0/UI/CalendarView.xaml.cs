@@ -19,6 +19,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 using System.Diagnostics;
+using Windows.UI;
 
 
 // https://go.microsoft.com/fwlink/?LinkId=234238 上介绍了“空白页”项模板
@@ -30,26 +31,34 @@ namespace NTUTimetable_v1._0
     /// </summary>
     public sealed partial class CalendarView : Page
     {
-
+        CurrentWeek currentWeek;
         List<CourseInfo> mycourseinfolist;
         public CalendarView()
         {
             this.InitializeComponent();
 
-            createbuttonsAsync();
+            
 
 
 
             //Mycourse("fdhIAWFHIEHIFA", "CE5356", "SEP2", "LEC/THE", "LT2A", "BlueColor", 3, 5, 2);
         }
 
-
-
-        public async Task createbuttonsAsync ()
+        protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            CurrentWeek myweek = new CurrentWeek();
+            base.OnNavigatedTo(e);
+            currentWeek = (CurrentWeek)e.Parameter;
+            currentWeekSlider.Value = currentWeek.week;
+            CreateButtonsAsync(currentWeek);
+        }
+
+
+
+        private async Task CreateButtonsAsync(CurrentWeek myweek)
+        {
+            
             StorageFile storagefile;
-            StorageFile examfile;
+            
            
             try
             {
@@ -106,7 +115,10 @@ namespace NTUTimetable_v1._0
                         }
                     }
                 }
-                colornum++;
+                if (colornum < 9)
+                    colornum++;
+                else
+                    colornum = 1;
             }
             
 
@@ -119,7 +131,7 @@ namespace NTUTimetable_v1._0
 
 
 
-        public void Mycourse(string index, string CourseID, string groupname, string coursetype, string venue, string buttoncolor, int rownum, int colnum, int rowspan)
+        private void Mycourse(string index, string CourseID, string groupname, string coursetype, string venue, string buttoncolor, int rownum, int colnum, int rowspan)
         {
 
             StackPanel ButtonStackPenal = new StackPanel
@@ -135,7 +147,7 @@ namespace NTUTimetable_v1._0
                 FontSize = 20,
                 FontWeight = FontWeights.SemiBold,
                 Margin = new Thickness(-2),
-                Foreground = new SolidColorBrush(Windows.UI.Color.FromArgb(255, 255, 255, 255))
+                Foreground = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255))
             };
 
             TextBlock VenueText = new TextBlock
@@ -143,7 +155,7 @@ namespace NTUTimetable_v1._0
                 Text = venue,
                 FontWeight = FontWeights.SemiBold,
                 FontSize = 13,
-                Foreground = new SolidColorBrush(Windows.UI.Color.FromArgb(255, 255, 255, 255))
+                Foreground = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255))
             };
 
             TextBlock CourseTypeText = new TextBlock
@@ -151,7 +163,7 @@ namespace NTUTimetable_v1._0
                 Text = coursetype,
                 FontWeight = FontWeights.SemiBold,
                 FontSize = 13,
-                Foreground = new SolidColorBrush(Windows.UI.Color.FromArgb(255, 255, 255, 255))
+                Foreground = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255))
             };
 
             TextBlock GroupNameText = new TextBlock
@@ -159,7 +171,7 @@ namespace NTUTimetable_v1._0
                 Text = groupname,
                 FontWeight = FontWeights.SemiBold,
                 FontSize = 13,
-                Foreground = new SolidColorBrush(Windows.UI.Color.FromArgb(255, 255, 255, 255))
+                Foreground = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255))
             };
             ButtonStackPenal.Children.Add(CourseIDText);
             ButtonStackPenal.Children.Add(CourseTypeText);
@@ -200,7 +212,13 @@ namespace NTUTimetable_v1._0
 
 
         }
+       
 
-        
+        private void ChangeViewingWeek_Click(object sender, RoutedEventArgs e)
+        {
+            currentWeek.week = (int)currentWeekSlider.Value;
+            this.Frame.Navigate(typeof(CalendarView), currentWeek);
+
+        }
     }
 }

@@ -37,7 +37,7 @@ namespace NTUTimetable_v1._0
 
         List<string> courseCode = new List<string>();
         List<string> courseIndex = new List<string>();
-        StorageFile examFile;
+        StorageFile examFile, myCourseJsonFile;
         List<ExamInfo> examInfoList = new List<ExamInfo>();
         List<CourseInfo> myCourseInfoList = new List<CourseInfo>();
         JArray myCourseInfoArray = new JArray();
@@ -54,19 +54,26 @@ namespace NTUTimetable_v1._0
         {
             this.InitializeComponent();
 
-            readExamFile();
+            readFiles();
         }
 
 
-        public async Task readExamFile() {
+        public async Task readFiles() {
             //Debug.WriteLine("Read exam file");
             try
             {
                 examFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri(EXAM_INFO_URI));
+                //open the current coursefile
+                myCourseJsonFile = await ApplicationData.Current.LocalFolder.GetFileAsync(MYCOURSE_INFO);
+                
+                string mycourses = await FileIO.ReadTextAsync(myCourseJsonFile);
+                if (mycourses.Length >= 10)
+                    myCourseInfoArray = JArray.Parse(mycourses);
+                
             }
             catch (Exception ex)
             {
-
+                myCourseJsonFile = await ApplicationData.Current.LocalFolder.CreateFileAsync(MYCOURSE_INFO);
                 Debug.WriteLine(ex.ToString());
             }
             
@@ -89,14 +96,9 @@ namespace NTUTimetable_v1._0
 
 
 
-            //open the current coursefile
-            
-            StorageFile myCourseJsonFile =await ApplicationData.Current.LocalFolder.GetFileAsync(MYCOURSE_INFO);
-            
-
 
             //courses are stored in a Copurse_info object format, in a json array
-            //var mycoursescurrent = JsonConvert.DeserializeObject<List<Course_info>>(content);
+
             //JArray mycourseinfoarray = new JArray();
 
             if (string.IsNullOrWhiteSpace(myCourseInfoTextBox.Text) || myCourseInfoTextBox.Text[0] != 'S')
@@ -122,11 +124,11 @@ namespace NTUTimetable_v1._0
                     for (int i = 11; i < rawLines.Length; i++)
                     {
                         var Lines = rawLines[i].Split("\t");
-                        if (Lines.Length >= 6 && Lines[Lines.Length - 1][0] == 'T')
+                        if (Lines.Length >= 6 && Lines[Lines.Length - 1][0] == 'T') //Filter out lines representing mothing or online course
                             effectiveLines.Add(rawLines[i]);
 
                     }
-                    if (effectiveLines.Count <= 18)
+                    if (effectiveLines.Count <= 0)
                         throw new FormatException();
 
                     //New List of course
@@ -186,8 +188,12 @@ namespace NTUTimetable_v1._0
                             //Add Exam Info 
 
                             var matchedexam = examInfoList.FirstOrDefault(match => (match.Course.ToUpper() == myCourseInfo.courseCode.ToUpper()));
-                            if (matchedexam != null) {
-                                myCourseInfo.ExamInfo = "FINAL EXAM: "+ matchedexam.Date + " " + matchedexam.Day + " " + matchedexam.Time + " " + matchedexam.Duration + "h";
+                            if (matchedexam != null)
+                            {
+                                myCourseInfo.ExamInfo = "FINAL EXAM: " + matchedexam.Date + " " + matchedexam.Day + " " + matchedexam.Time + " " + matchedexam.Duration + "h";
+                            }
+                            else {
+                                myCourseInfo.ExamInfo = "No Exam Infomation Found";
                             }
 
                             myCourseInfoList.Add(myCourseInfo);

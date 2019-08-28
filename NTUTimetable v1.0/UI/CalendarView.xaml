@@ -17,6 +17,7 @@
         <SolidColorBrush x:Key="6" Color="#FF4fa87c" />
         <SolidColorBrush x:Key="7" Color="#FFc66192" />
         <SolidColorBrush x:Key="8" Color="#FF7341ad" />
+        <SolidColorBrush x:Key="9" Color="#FFa4a637" />
         
         <Style x:Key="Borderr" TargetType="Border">
             <Setter Property="BorderBrush" Value="{ThemeResource SystemControlBackgroundBaseLowRevealBorderBrush}"/>
@@ -417,9 +418,13 @@
                 <Border Name="border_28_6" Grid.Row="28" Grid.Column="6" Style="{StaticResource Borderr}"/>
 
 
-                <TextBlock Grid.Row="29" Grid.Column="3" Text="@Lyu Zizheng :)" HorizontalTextAlignment="Center" VerticalAlignment="Center" Foreground="#999999"/>
+                <TextBlock Grid.Row="29" Grid.Column="5" Grid.ColumnSpan="2" Text="@Lyu Zizheng :)" HorizontalTextAlignment="Center" VerticalAlignment="Center" Foreground="#999999"/>
 
-
+                <StackPanel Orientation="Horizontal" Grid.Row="29" Grid.Column="0" Grid.ColumnSpan="5" VerticalAlignment="Center" Margin="10,0,0,0">
+                    <TextBlock Text="Set Viewing Week" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                    <Slider MinWidth="300" Name="currentWeekSlider"  TickFrequency="1" TickPlacement="Outside" Minimum="1" Maximum="13" Margin="0,0,10,0"/>
+                    <Button Name="changeViewingWeek" VerticalAlignment="Center" Click="ChangeViewingWeek_Click">Go</Button>
+                </StackPanel>
 
 
 

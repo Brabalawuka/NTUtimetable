@@ -1,6 +1,6 @@
-MainPackage=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable v1.0_1.0.13.0_ARM.appx
-SymbolPackage=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\obj\ARM\Release\Symbols\NTUTimetable v1.0_1.0.13.0_ARM.appxsym
-ResourcePack=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable v1.0_1.0.13.0_scale-100.appx
-ResourcePack=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable v1.0_1.0.13.0_scale-125.appx
-ResourcePack=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable v1.0_1.0.13.0_scale-150.appx
-ResourcePack=C:\Users\lvziz\source\repos\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable v1.0_1.0.13.0_scale-400.appx
+MainPackage=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable_1.1.2.0_ARM.appx
+SymbolPackage=D:\Repo\NTUtimetable\NTUTimetable v1.0\obj\ARM\Release\Symbols\NTUTimetable_1.1.2.0_ARM.appxsym
+ResourcePack=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable_1.1.2.0_scale-100.appx
+ResourcePack=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable_1.1.2.0_scale-125.appx
+ResourcePack=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable_1.1.2.0_scale-150.appx
+ResourcePack=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\ARM\Release\NTUTimetable_1.1.2.0_scale-400.appx

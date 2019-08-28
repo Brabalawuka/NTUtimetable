@@ -23,12 +23,17 @@ namespace NTUTimetable_v1._0
     /// 可用于自身或导航至 Frame 内部的空白页。
     /// </summary>
     public sealed partial class Setting : Page
+
+
     {
+       
         public Setting()
         {
             this.InitializeComponent();
         }
 
+
+      
         private async void Button_ClickAsync(object sender, RoutedEventArgs e)
         {
             StorageFile storagefile;
@@ -53,6 +58,12 @@ namespace NTUTimetable_v1._0
             ContentDialogResult result = await dialog.ShowAsync();
 
             
+        }
+
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var githubUri = new Uri("https://brabalawuka.github.io/NTUtimetable");
+            await Windows.System.Launcher.LaunchUriAsync(githubUri);
         }
     }
 }

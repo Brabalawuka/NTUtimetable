@@ -23,7 +23,16 @@ namespace NTUTimetable_v1._0
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        CurrentWeek myweek = new CurrentWeek();
 
+
+        public void setWeek(int week) {
+            myweek.week = week;
+        }
+
+        public int getWeek() {
+            return myweek.week;
+        }
         private async void feedbackDialog(string args)
         {
             
@@ -34,7 +43,10 @@ namespace NTUTimetable_v1._0
                 Content = args,
                 CloseButtonText = "Close",
                 PrimaryButtonText = "Email",
-                SecondaryButtonText = "GitHub"
+                SecondaryButtonText = "Review",
+                
+               
+                
                 
 
             };
@@ -48,9 +60,10 @@ namespace NTUTimetable_v1._0
             }
             else if (result == ContentDialogResult.Secondary)
             {
-                var githubUri = new Uri("https://github.com/Brabalawuka/NTUtimetable/issues");
-                await Windows.System.Launcher.LaunchUriAsync(githubUri);
-            }
+                var reviewUri = new Uri("ms-windows-store://review/?ProductId=9P98CRS9Z1BJ");
+                //var githubUri = new Uri("https://github.com/Brabalawuka/NTUtimetable/issues");
+                await Windows.System.Launcher.LaunchUriAsync(reviewUri);
+            } 
 
         }
 
@@ -59,20 +72,20 @@ namespace NTUTimetable_v1._0
             this.InitializeComponent();
             //curretnweek method
 
-            CurrentWeek myweek = new CurrentWeek();
-            CurrentWeek.Content ="We are in Week "+ myweek.week.ToString()+ " now";
-          
+
+            CurrentWeek.Content = "AY2019 S1 Week " + myweek.week.ToString();
 
 
 
-            MainPageFrame.Navigate(typeof(CalendarView));
+
+            MainPageFrame.Navigate(typeof(CalendarView), myweek);
         }
 
         private void Menu_SelectionChanged(NavigationView sender, NavigationViewSelectionChangedEventArgs args)
         {
             if (args.IsSettingsSelected)
             {
-                MainPageFrame.Navigate(typeof(Setting));
+                MainPageFrame.Navigate(typeof(Setting), this);
             }
             else
             {
@@ -80,7 +93,7 @@ namespace NTUTimetable_v1._0
                 switch (item.Tag.ToString())
                 {
                     case "CalendarView":
-                        MainPageFrame.Navigate(typeof(CalendarView));
+                        MainPageFrame.Navigate(typeof(CalendarView), myweek);
                         break;
                     case "ListView":
                         MainPageFrame.Navigate(typeof(ListView));
@@ -93,15 +106,21 @@ namespace NTUTimetable_v1._0
                         break;
                     
 
+
                 }
             }
         }
 
         private void FeedbackButton_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            feedbackDialog("Please email to lyuz0001@e.ntu.edu.sg or go to Github Page for report and suggestion!");
+            feedbackDialog("Please email to lyuz0001@e.ntu.edu.sg or go to Store Page for review and suggestion!");
 
         }
+
+
+
+
+        
 
 
         

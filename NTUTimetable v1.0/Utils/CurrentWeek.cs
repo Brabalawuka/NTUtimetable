@@ -15,10 +15,10 @@ namespace NTUTimetable_v1._0
             DateTime weeekstart = new DateTime(2019, 8, 4);
             int weekspan = (DateTime.Now.Subtract(weeekstart).Days) / 7;
             if (weekspan <= 7)
-                this.week = weekspan;
+                week = weekspan;
             else
-                this.week = weekspan - 1;
-                
+                week = weekspan - 1;
+              
         }
     }
 }

@@ -15,7 +15,7 @@ namespace NTUTimetable_v1._0
         List<string> courseName = new List<string>();
         List<CourseInfo> myCourse = new List<CourseInfo>();
         
-        string requestAddrPrefix = "https://wish.wis.ntu.edu.sg/webexe/owa/AUS_SCHEDULE.main_display1?acadsem=2019;1&r_search_type=F&r_subj_code=";
+        string requestAddrPrefix = "https://wish.wis.ntu.edu.sg/webexe/owa/AUS_SCHEDULE.main_display1?acadsem=2019;2&r_search_type=F&r_subj_code=";
         string requestAddrSurfix = "&boption=Search&staff_access=false";
         public WebRequest(List<string> coursename) {
             this.courseName = coursename;

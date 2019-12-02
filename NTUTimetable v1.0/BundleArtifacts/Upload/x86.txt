@@ -1,2 +1,2 @@
-MainPackage=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Release\Upload\NTUTimetable_1.1.1.0_x86.appx
-SymbolPackage=D:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Release\Upload\NTUTimetable_1.1.1.0\NTUTimetable_1.1.1.0_x86.appxsym
+MainPackage=E:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Release\Upload\NTUTimetable_1.2.0.0_x86.appx
+SymbolPackage=E:\Repo\NTUtimetable\NTUTimetable v1.0\bin\x86\Release\Upload\NTUTimetable_1.2.0.0\NTUTimetable_1.2.0.0_x86.appxsym

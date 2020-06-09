@@ -12,7 +12,7 @@ namespace NTUTimetable_v1._0
 
         public CurrentWeek()
         {
-            DateTime weeekstart = new DateTime(2020, 1, 5);
+            DateTime weeekstart = new DateTime(2020, 8, 9);
             int weekspan = (DateTime.Now.Subtract(weeekstart).Days) / 7;
             
             if (weekspan <= 7)

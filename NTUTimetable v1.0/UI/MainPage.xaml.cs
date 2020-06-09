@@ -73,7 +73,7 @@ namespace NTUTimetable_v1._0
             //curretnweek method
 
 
-            CurrentWeek.Content = "AY2019 S1 Week " + myweek.week.ToString();
+            CurrentWeek.Content = "AY2020 S1 Week " + myweek.week.ToString();
 
 
 
